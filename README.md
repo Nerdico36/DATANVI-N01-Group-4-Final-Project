@@ -18,6 +18,7 @@ Patricia Anh S. Dalangin
 Antonio Luis P. Guidote
 
 Setup instructions (for local running):
+
 Recommended:
 1. Using the Pycharm IDE, create a project and install the pandas, plotly, and dash packages.
 2. Then, download the main.py file from the finalProjectFiles folder of this repository and use it to replace the auto-generated main.py file in the Pycharm project folder.
