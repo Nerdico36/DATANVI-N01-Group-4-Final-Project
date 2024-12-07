@@ -8,10 +8,14 @@ Link to App: N/A (see setup instructions)
 Description: A dashboard to provide information to airport stakeholders, retailers, and consumers about the Philippine aviation industry. Includes a map with airport locations (by size), a graph of the top 5 PH airports by flights, a time-interval-adjustable histogram based on airport selected from the map, and a second time histogram filterable by flight type also based on selected airport.
 
 Project Team:
+
 Nikolas Benjamin G. Abot
+
 Matthew Benedict M. Co
+
 Patricia Anh S. Dalangin
-Anotonio Luis P. Guidote
+
+Antonio Luis P. Guidote
 
 Setup instructions (for local running):
 Recommended:
