@@ -14,5 +14,12 @@ Patricia Anh S. Dalangin
 Anotonio Luis P. Guidote
 
 Setup instructions (for local running):
-Recommended: Using the Pycharm IDE, create a project and install the pandas, plotly, and dash packages. Then, replace all contents of the project folder with the contents of the finalProject folder in this repository. Next, run the main.py file. Lastly, click/access the link that appears in the console. This will take you to the complete dashboard page.
-Possible Alternatives (non-specific and untested): Download the finalProject folder and run using some other IDE, such as perhaps IDLE, with the above mentioned packages installed in the local devce's version of Python. May also be possible via terminal/command line.
+Recommended:
+1. Using the Pycharm IDE, create a project and install the pandas, plotly, and dash packages.
+2. Then, download the main.py file from the finalProjectFiles folder of this repository and use it to replace the auto-generated main.py file in the Pycharm project folder.
+3. Next, download the whole datsets folder from this repository into the Pycharm project folder.
+4. Then, unzip the PH_Airports_Arrivals_and_Departures.zip file and move the resulting PH_Airports_Arrivals_and_Departures.csv file into the datasets folder.
+5. Next, run the main.py file.
+6. Lastly, click/access the link that appears in the console. This will take you to the complete dashboard page.
+
+Possible Alternatives (non-specific and untested): Perform steps 2-4 above in a different file directory and run main.py using some other IDE, such as perhaps IDLE, with the above mentioned packages installed in the local devce's version of Python. May also be possible via terminal/command line.
