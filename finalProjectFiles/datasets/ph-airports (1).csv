@@ -1,0 +1,734 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+#meta +id,#meta +code,#loc +airport +type,#loc +airport +name,#geo +lat,#geo +lon,#geo +elevation +ft,#region +continent +code,#country +name,#country +code +iso2,#adm1 +name,#adm1 +code +iso,#adm1 +code +local,#loc +municipality +name,#status +scheduled,#loc +airport +code +gps,#loc +airport +code +iata,#loc +airport +code +local,#meta +url +airport,#meta +url +wikipedia,#meta +keywords,#meta +score,#date +updated
+5689,RPLL,large_airport,Ninoy Aquino International Airport,14.5086,121.019997,75,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila (Pasay),1,RPLL,MNL,,,https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport,"Manila International Airport, Jesus Villamor Air Base",1014275,2024-10-22T12:05:24+00:00
+5742,RPVM,large_airport,Mactan Cebu International Airport,10.309261,123.97974,31,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Lapu-Lapu City,1,RPVM,CEB,,http://www.mactan-cebuairport.com.ph/,https://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport,"Mactan Air Base, Opon Airfield",1275,2022-11-08T01:21:42+00:00
+5687,RPLC,medium_airport,Clark International Airport / Clark Air Base,15.186,120.559998,484,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,1,RPLC,CRK,,http://www.clarkairport.com/,https://en.wikipedia.org/wiki/Clark_International_Airport,"Diosdado Macapagal International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Pangyatung Sulapawan ning Clark, Paliparang Pandaigdig ng Clark",750,2022-09-22T20:07:02+00:00
+5741,RPVK,medium_airport,Kalibo International Airport,11.67940044,122.3759995,14,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Kalibo,1,RPVK,KLO,,,https://en.wikipedia.org/wiki/Kalibo_International_Airport,,750,2010-09-08T22:32:54+00:00
+5686,RPLB,medium_airport,Subic Bay International Airport / Naval Air Station Cubi Point,14.7944,120.271004,64,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Olongapo,1,RPLB,SFS,,,https://en.wikipedia.org/wiki/Subic_Bay_International_Airport,"Paliparang Pandaigdig ng Look ng Subic, Naval Air Station Cubi Point",750,2020-10-15T11:15:53+00:00
+5736,RPVE,medium_airport,Godofredo P. Ramos Airport,11.9245,121.954002,7,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Caticlan,1,RPVE,MPH,,,https://en.wikipedia.org/wiki/Godofredo_P._Ramos_Airport,Godofredo P. Ramos Airport,750,2024-04-06T17:04:01+00:00
+5744,RPVP,medium_airport,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,9.74212,118.759003,71,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Puerto Princesa,1,RPVP,PPS,,,https://en.wikipedia.org/wiki/Puerto_Princesa_Airport,,750,2023-12-03T21:46:37+00:00
+5747,RPVT,closed,Tagbilaran Airport,9.665442,123.853533,38,AS,Philippines,PH,Bohol Province,PH-BOH,BOH,Tagbilaran City,0,,,,,https://en.wikipedia.org/wiki/Tagbilaran_Airport,"RPVT, TAG",800,2022-09-26T00:17:33+00:00
+5697,RPMD,large_airport,Francisco Bangoy International Airport,7.12552,125.646004,96,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Davao,1,RPMD,DVO,,,https://en.wikipedia.org/wiki/Francisco_Bangoy_International_Airport,Davao International Airport,1275,2020-12-31T12:15:53+00:00
+5688,RPLI,medium_airport,Laoag International Airport,18.176121,120.531034,25,AS,Philippines,PH,Ilocos Norte Province,PH-ILN,ILN,Laoag City,1,RPLI,LAO,,,https://en.wikipedia.org/wiki/Laoag_International_Airport,"Gabu Airfield, Laoag Airfield",750,2022-11-08T01:36:08+00:00
+5726,RPUS,medium_airport,San Fernando Airport,16.59560013,120.3030014,13,AS,Philippines,PH,La Union Province,PH-LUN,LUN,,1,RPUS,SFE,,,https://en.wikipedia.org/wiki/San_Fernando_Airport,,750,2008-06-13T14:30:04+00:00
+5718,RPUG,small_airport,Lingayen Airport,16.034966,120.242191,7,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Lingayen,0,RPUG,,,,https://en.wikipedia.org/wiki/Lingayen_Airport,,50,2024-05-18T21:31:19+00:00
+5690,RPLP,closed,Legazpi City International Airport,13.1575,123.735,66,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi City,1,,,,,https://en.wikipedia.org/wiki/Legazpi_Airport,"LGP, RPLP",750,2023-04-11T13:21:25+00:00
+31007,PH-ENI,small_airport,El Nido Airport,11.202399,119.416087,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,El Nido,1,RPEN,ENI,,,https://en.wikipedia.org/wiki/El_Nido_Airport,El Nido,150,2018-05-02T10:27:18+00:00
+5715,RPUB,medium_airport,Loakan Airport,16.37509918,120.6200027,4251,AS,Philippines,PH,Benguet Province,PH-BEN,BEN,Baguio City,1,RPUB,BAG,,,https://en.wikipedia.org/wiki/Loakan_Airport,Baguio Airport,750,2009-02-04T10:32:52+00:00
+5698,RPME,medium_airport,Bancasi Airport,8.9515,125.4788,141,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Butuan,1,RPME,BXU,,,https://en.wikipedia.org/wiki/Bancasi_Airport,,750,2022-03-18T12:34:43+00:00
+5735,RPVD,medium_airport,Sibulan Airport,9.334183,123.30191,15,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Dumaguete City,1,RPVD,DGT,,https://dumaguete.com/dumaguete-airport-sibulan/,https://en.wikipedia.org/wiki/Sibulan_Airport,,500,2022-08-27T12:52:13+00:00
+32230,RPUX,small_airport,Plaridel Airport,14.890855,120.852914,20,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Plaridel,0,RPUX,,,,https://en.wikipedia.org/wiki/Plaridel_Airport,Plaridel,50,2020-10-21T13:48:09+00:00
+5724,RPUQ,small_airport,Vigan Airport,17.55529976,120.3560028,16,AS,Philippines,PH,Ilocos Sur Province,PH-ILS,ILS,Vigan City,0,RPUQ,,,,https://en.wikipedia.org/wiki/Mindoro_Airport,,50,2008-06-13T14:30:04+00:00
+35178,RPVB,medium_airport,Bacolod-Silay Airport,10.7764,123.014999,82,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Bacolod City,1,RPVB,BCD,,http://www.bacolod-silayairport.com/,https://en.wikipedia.org/wiki/Bacolod%E2%80%93Silay_Airport,,750,2018-05-11T02:45:37+00:00
+5749,RPVV,medium_airport,Francisco B. Reyes (Busuanga) Airport,12.121865,120.100801,148,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Coron,1,RPVV,USU,,,https://en.wikipedia.org/wiki/Busuanga_Airport,Busuanga Airport,750,2022-11-14T11:00:50+00:00
+5710,RPMS,medium_airport,Surigao Airport,9.755838326,125.4809475,20,AS,Philippines,PH,Surigao del Norte Province,PH-SUN,SUN,Surigao City,1,RPMS,SUG,,,https://en.wikipedia.org/wiki/Surigao_Airport,,750,2010-09-11T09:28:42+00:00
+5732,RPVA,medium_airport,Daniel Z. Romualdez Airport,11.227761,125.027783,10,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Tacloban City,1,RPVA,TAC,DZR,,https://en.wikipedia.org/wiki/Daniel_Z._Romualdez_Airport,"Tacloban, Daniel Z. Romualdez, Naval Station Dioscoro Papa",750,2022-11-14T14:09:58+00:00
+308633,PH-0001,medium_airport,Laguindingan International Airport,8.612203,124.456496,190,AS,Philippines,PH,Misamis Oriental Province,PH-MSR,MSR,Cagayan de Oro,1,RPMY,CGY,,http://laguindinganinternationalairport.com/,https://en.wikipedia.org/wiki/Laguindingan_International_Airport,"CGY, IGN, RPML, Cagayan de Oro",500,2022-08-24T14:19:05+00:00
+5719,RPUH,medium_airport,San Jose Airport,12.36149979,121.0469971,14,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,San Jose,1,RPUH,SJI,,,https://en.wikipedia.org/wiki/McGuire_Field,McGuire Field,500,2010-09-08T22:28:35+00:00
+5739,RPVI,medium_airport,Iloilo International Airport,10.833017,122.493358,27,AS,Philippines,PH,Iloilo Province,PH-ILI,ILI,Cabatuan,1,RPVI,ILO,,,https://en.wikipedia.org/wiki/Iloilo_International_Airport,,750,2022-11-14T14:08:15+00:00
+5700,RPMG,medium_airport,Dipolog Airport,8.601983,123.341875,12,AS,Philippines,PH,Zamboanga del Norte Province,PH-ZAN,ZAN,Dipolog,1,RPMG,DPL,,http://www.dipologcity.com/AccommodationsDipolog%20Airport.htm,https://en.wikipedia.org/wiki/Dipolog_Airport,,750,2022-11-15T13:57:07+00:00
+5701,RPMH,medium_airport,Camiguin Airport,9.253894,124.709115,53,AS,Philippines,PH,Camiguin Province,PH-CAM,CAM,Mambajao,1,RPMH,CGM,,,https://en.wikipedia.org/wiki/Camiguin_Airport,,750,2024-06-20T20:58:05+00:00
+5745,RPVR,medium_airport,Roxas Airport,11.59770012,122.7519989,10,AS,Philippines,PH,Capiz Province,PH-CAP,CAP,Roxas City,1,RPVR,RXS,,,https://en.wikipedia.org/wiki/Roxas_Airport,,750,2008-06-13T14:30:04+00:00
+32228,RPUK,small_airport,Calapan National Airport,13.422641,121.201687,11,AS,Philippines,PH,Oriental Mindoro Province,PH-MDR,MDR,Calapan,0,RPUK,,,,https://en.wikipedia.org/wiki/Calapan_Airport,"Calapan, Mindoro",50,2020-12-16T16:47:14+00:00
+32226,RPUI,small_airport,Iba Airport,15.32475567,119.9694977,11,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Iba,0,RPUI,,,,https://en.wikipedia.org/wiki/Iba_Airport,Paliparan ng Iba,50,2011-11-30T22:53:48+00:00
+5705,RPMN,medium_airport,Sanga Sanga Airport,5.048196,119.743338,15,AS,Philippines,PH,Tawi-Tawi Province,PH-TAW,TAW,Bongao,1,RPMN,TWT,,,https://en.wikipedia.org/wiki/Sanga-Sanga_Airport,SGS,750,2022-11-14T13:33:03+00:00
+5734,RPVC,medium_airport,Calbayog Airport,12.07269955,124.5449982,12,AS,Philippines,PH,Samar Province,PH-WSA,WSA,Calbayog City,1,RPVC,CYP,,,https://en.wikipedia.org/wiki/Calbayog_Airport,,750,2008-06-13T14:30:04+00:00
+5740,RPVJ,medium_airport,Moises R. Espinosa Airport,12.369682,123.630095,49,AS,Philippines,PH,Masbate Province,PH-MAS,MAS,Masbate,1,RPVJ,MBT,,,https://en.wikipedia.org/wiki/Masbate_Airport,"Masbate, Moises R. Espinoza",750,2018-01-25T04:53:42+00:00
+5712,RPMZ,medium_airport,Zamboanga International Airport,6.922420025,122.0599976,33,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Zamboanga City,1,RPMZ,ZAM,,http://www.zamboanga.net/airportinsert.htm,https://en.wikipedia.org/wiki/Zamboanga_International_Airport,,750,2008-06-13T14:30:04+00:00
+5725,RPUR,medium_airport,Dr Juan C Angara Airport,15.729309,121.500034,108,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Baler,1,RPUR,BQA,,,https://en.wikipedia.org/wiki/Dr._Juan_C._Angara_Airport,"Baler, Dr. Juan C. Angara",500,2024-05-17T08:32:06+00:00
+5704,RPML,small_airport,Lumbia Airfield,8.41562,124.611,601,AS,Philippines,PH,Misamis Oriental Province,PH-MSR,MSR,Cagayan de Oro,0,RPML,,,,https://en.wikipedia.org/wiki/Lumbia_Airfield,"CGY, Cagayan de Oro Airport, Lumbia Airport",150,2022-08-24T14:17:27+00:00
+5693,RPLV,small_airport,Fort Magsaysay Airport,15.4347,121.091003,200,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Santa Rosa,0,RPLV,,,,https://en.wikipedia.org/wiki/Fort_Magsaysay,Fort Magsaysay,50,2024-05-18T21:30:31+00:00
+5723,RPUO,medium_airport,Basco Airport,20.4513,121.980003,291,AS,Philippines,PH,Batanes Province,PH-BTN,BTN,Basco,1,RPUO,BSO,,,https://en.wikipedia.org/wiki/Basco_Airport,"Irport nu Basco, Paliparang Basco, Pagtayaban ti Basco",750,2022-11-08T01:31:46+00:00
+5696,RPMC,medium_airport,Cotabato (Awang) Airport,7.164753,124.209938,189,AS,Philippines,PH,Maguindanao del Norte Province,PH-MDN,MDN,Datu Odin Sinsuat,1,RPMC,CBO,,,https://en.wikipedia.org/wiki/Cotabato_Airport,"Awang, Kutawatu",750,2022-11-14T12:34:13+00:00
+5711,RPMW,medium_airport,Tandag Airport,9.072002,126.17132,16,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Tandag,1,RPMW,TDG,,,https://en.wikipedia.org/wiki/Tandag_Airport,,750,2021-11-08T18:20:53+00:00
+5727,RPUT,medium_airport,Tuguegarao Airport,17.64336768,121.7331505,70,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Tuguegarao City,1,RPUT,TUG,,,https://en.wikipedia.org/wiki/Tuguegarao_Airport,Tugegarao,750,2010-09-11T09:30:30+00:00
+5709,RPMR,medium_airport,General Santos International Airport,6.058000088,125.0960007,505,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,General Santos,1,RPMR,GES,,,https://en.wikipedia.org/wiki/General_Santos_International_Airport,Tambler Airport,500,2015-01-27T13:40:52+00:00
+5706,RPMO,medium_airport,Labo Airport,8.17851,123.842003,75,AS,Philippines,PH,Misamis Occidental Province,PH-MSC,MSC,Ozamiz,1,RPMO,OZC,,,https://en.wikipedia.org/wiki/Labo_Airport,"Barangay Labo, Ozamiz, Misamis Airfield",500,2023-04-11T01:51:44+00:00
+336116,RPSP,medium_airport,Bohol-Panglao International Airport,9.573045,123.770143,42,AS,Philippines,PH,Bohol Province,PH-BOH,BOH,Panglao,1,RPSP,TAG,,,https://en.wikipedia.org/wiki/Bohol%E2%80%93Panglao_International_Airport,,500,2024-07-09T03:21:13+00:00
+5692,RPLU,medium_airport,Lubang Airport,13.8554,120.105003,43,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,,0,RPLU,LBX,,,https://en.wikipedia.org/wiki/Lubang_Airport,,250,2024-05-17T08:29:33+00:00
+5691,RPLS,medium_airport,Danilo Atienza Air Base,14.4954,120.903999,8,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite,0,RPLS,SGL,,,https://en.wikipedia.org/wiki/Danilo_Atienza_Air_Base,"NSP, Sangley Point Air Base, Sangley Point International Airport",250,2021-12-26T12:18:35+00:00
+5721,RPUM,medium_airport,Mamburao Airport,13.208048,120.605457,13,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,Mamburao,0,RPUM,MBO,,,https://en.wikipedia.org/wiki/Mamburao_Airport,,250,2024-05-17T08:31:41+00:00
+5743,RPVO,medium_airport,Ormoc Airport,11.057715,124.565622,83,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Ormoc City,0,RPVO,OMC,,,https://en.wikipedia.org/wiki/Ormoc_Airport,,250,2023-12-04T13:04:55+00:00
+30869,RPLO,small_airport,Cuyo Airport,10.8581,121.069,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Cuyo,1,RPLO,CYU,,,https://en.wikipedia.org/wiki/Cuyo_Airport,,150,2024-05-17T08:29:09+00:00
+5738,RPVG,small_airport,Guiuan Airport,11.03549957,125.7419968,7,AS,Philippines,PH,Eastern Samar Province,PH-EAS,EAS,Guiuan,0,RPVG,,GUI,,https://en.wikipedia.org/wiki/Guiuan_Airport,,50,2012-11-22T08:19:34+00:00
+507217,ACFC,small_airport,Woodland Airpark,15.254326,120.677772,100,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Magalang,0,,,,https://angelesflying.com/,,"ACFC, Angeles City Flying Club, grassstrip, Gordon Boyce Airfield",50,2023-11-12T19:08:55+00:00
+46549,RPLR,small_airport,Carmen (Rosales) Airstrip,15.884074,120.601237,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Rosales,0,RPLR,,,,https://en.wikipedia.org/wiki/Rosales_Airport,,50,2024-05-20T19:03:57+00:00
+302305,RPSB,small_airport,Bantayan Airport,11.1624,123.7848,60,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Santa Fe,0,RPSB,,,,https://en.wikipedia.org/wiki/Bantayan_Airport,,50,2024-06-26T15:00:45+00:00
+5695,RPMB,medium_airport,Rajah Buayan Air Base,6.10644,125.235001,28,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,General Santos City,0,RPMB,,,,https://en.wikipedia.org/wiki/Rajah_Buayan_Air_Station,"GES, Paliparang Pandaigdig ng Heneral Santos, Tugpahanang Internasyonal sa Heneral Santos",750,2024-05-20T19:04:17+00:00
+5707,RPMP,medium_airport,Pagadian Airport,7.825632,123.459635,5,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Pagadian,1,RPMP,PAG,,,https://en.wikipedia.org/wiki/Pagadian_Airport,,750,2023-04-08T10:29:00+00:00
+5746,RPVS,medium_airport,Evelio Javier Airport,10.766644,121.932506,23,AS,Philippines,PH,Antique Province,PH-ANT,ANT,San Jose,0,RPVS,EUQ,,,https://en.wikipedia.org/wiki/Evelio_Javier_Airport,Antique Airport,750,2021-11-08T18:32:59+00:00
+5728,RPUV,medium_airport,Virac Airport,13.5763998,124.2060013,121,AS,Philippines,PH,Catanduanes Province,PH-CAT,CAT,Virac,1,RPUV,VRC,,,https://en.wikipedia.org/wiki/Virac_Airport,,750,2008-06-13T14:30:04+00:00
+5730,RPUY,medium_airport,Cauayan Airport,16.92989922,121.7529984,200,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Cauayan City,1,RPUY,CYZ,,,https://en.wikipedia.org/wiki/Cauayan_Airport,,500,2010-09-11T09:14:25+00:00
+32221,RPLT,medium_airport,Itbayat Jorge Abad Airport,20.722521,121.809969,328,AS,Philippines,PH,Batanes Province,PH-BTN,BTN,Itbayat,1,RPLT,,,,https://en.wikipedia.org/wiki/Jorge_Abad_Airport,"Irport nu Jorge Abad, Paliparang Jorge Abad, Pagtayaban ti Jorge Abad",500,2022-11-08T01:31:23+00:00
+325947,PH-0073,medium_airport,Cagayan North International Airport,18.182388,121.745853,148,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Lal-lo,1,RPLH,LLC,,,https://en.wikipedia.org/wiki/Cagayan_North_International_Airport,"Northern Cagayan, Lal-lo",500,2021-11-22T14:11:32+00:00
+5733,X-RPVB,closed,Bacolod City Domestic Airport,10.64244,122.9296,26,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Bacolod City,0,,,,,https://en.wikipedia.org/wiki/Bacolod_City_Domestic_Airport,"RPVB, BCD",301,2013-08-31T00:07:17+00:00
+5716,RPUD,medium_airport,Daet Airport,14.1292,122.980003,10,AS,Philippines,PH,Camarines Norte Province,PH-CAN,CAN,Daet,0,RPUD,DTE,,,https://en.wikipedia.org/wiki/Bagasbas_Airport,,250,2024-05-17T08:31:07+00:00
+5708,RPMQ,medium_airport,Mati National Airport,6.949091,126.27368,156,AS,Philippines,PH,Davao Oriental Province,PH-DAO,DAO,Mati,0,RPMQ,MXI,,,https://en.wikipedia.org/wiki/Mati_Airport,"Mati, Imelda R. Marcos, Tugpahanan sa Mati, Paliparan ng Mati",250,2022-11-15T11:56:15+00:00
+5713,RPNS,small_airport,Siargao Airport,9.8591,126.014,10,AS,Philippines,PH,Surigao del Norte Province,PH-SUN,SUN,Del Carmen,1,RPNS,IAO,,,https://en.wikipedia.org/wiki/Siargao_Airport,Sayak Airport,100,2018-01-20T23:26:06+00:00
+308149,RPSD,small_airport,Cesar Lim Rodriguez (Taytay-Sandoval) Airport,11.05065,119.519266,80,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Taytay,1,RPSD,RZP,,,https://en.wikipedia.org/wiki/Taytay_Airport,,100,2020-12-16T14:57:13+00:00
+313723,RPUA,small_airport,Pamalican Airstrip,11.35946,120.72668,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Agutaya,0,RPUA,,,,,Amanpulo,50,2021-12-20T08:33:03+00:00
+325992,PH-0090,small_airport,Binalonan Airport,16.052041,120.582225,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Binalonan,0,,,,,,Binalonan,50,2018-01-01T05:26:11+00:00
+312504,CGG,small_airport,Casiguran Airport,16.1941,122.0651,48,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Casiguran,0,,CGG,,,,,50,2014-07-20T02:54:55+00:00
+302307,RPVY,small_airport,Catbalogan Airport,11.810647,124.828806,,AS,Philippines,PH,Samar Province,PH-WSA,WSA,Catbalogan,0,RPVY,,,,https://en.wikipedia.org/wiki/Catbalogan_Airport,,50,2022-11-14T12:37:11+00:00
+326018,PH-0106,closed,Santa Rosa Airstrip,15.384705,120.62434,155,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Concepcion,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Santa Rosa, Concepcion, VOA",50,2023-11-12T18:59:51+00:00
+32222,RPLX,small_airport,Corregidor Airport (Kindley Field),14.3913,120.607002,102,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Corregidor,0,RPLX,,,,,,50,2020-06-17T18:52:34+00:00
+5717,RPUF,small_airport,Basa Air Base,14.98724,120.492554,151,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Floridablanca,0,RPUF,,,,https://en.wikipedia.org/wiki/Basa_Air_Base,Lieutenant Cesar Basa Air Base,50,2017-12-30T03:27:48+00:00
+32231,RPVH,small_airport,Hilongos Airport,10.37567,124.7611,12,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Hilongos,0,RPVH,,,,https://en.wikipedia.org/wiki/Hilongos_Airport,,50,2024-05-18T21:31:59+00:00
+5438,RP15,small_airport,Isabel PASAR Airport,10.912339,124.437856,16,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Isabel,0,RP15,,RP15,,,,50,2022-05-01T16:18:28+00:00
+32220,RPLJ,small_airport,Jomalig Island Airport,14.704161,122.331133,36,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Jomalig,0,RPLJ,,,,https://en.wikipedia.org/wiki/Jomalig_Airport,Jomalig,50,2018-01-01T00:14:23+00:00
+314647,PH-0006,small_airport,Rancudo Airfield,11.051453,114.283905,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Kalayaan (Pag-asa Island / Thitu Island),0,RPPN,,,,,,50,2022-11-08T04:07:02+00:00
+338216,PH-0260,closed,Lapanday Foods Delta Airstrip,7.63948,125.69154,,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Kapalong,0,,,,,,,50,2022-11-15T13:41:00+00:00
+5714,RPSM,small_airport,Maasin Airport,10.185695,124.783244,328,AS,Philippines,PH,Southern Leyte Province,PH-SLE,SLE,Maasin,0,RPSM,,,,https://en.wikipedia.org/wiki/Panan-awan_Airport,,50,2024-05-18T21:30:55+00:00
+326019,PH-0107,small_airport,Woodland Airpark,15.254326,120.677772,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Magalang,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Woodland Airpark, Angeles City Flying Club",50,2018-01-03T02:34:43+00:00
+325995,PH-0092,small_airport,Cabaluyan Airstrip,15.689794,120.330656,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Mangatarem,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Cabaluyan, Mangatarem",50,2018-01-01T14:37:17+00:00
+30818,RPMU,small_airport,Cagayan de Sulu Airport,7.014,118.496002,,AS,Philippines,PH,Tawi-Tawi Province,PH-TAW,TAW,Mapun,0,RPMU,CDY,,,https://en.wikipedia.org/wiki/Cagayan_de_Sulu_Airport,,50,2024-05-17T08:30:34+00:00
+326007,PH-0100,small_airport,Nampicuan Airstrip,15.743705,120.638895,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Nampicuan,0,,,,,,Nampicuan,50,2018-01-02T02:47:11+00:00
+326008,PH-0101,small_airport,Cojuangco Airstrip,15.674114,120.600357,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Paniqui,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,Paniqui,50,2020-10-15T10:22:38+00:00
+326000,PH-0096,small_airport,Hermana Mayor Island Airstrip,15.781981,119.793205,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Santa Cruz,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,Hermana Mayor,50,2020-10-15T11:16:17+00:00
+326001,PH-0097,small_airport,Hermana Menor Island Airstrip,15.735475,119.82478,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Santa Cruz,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,Hermana Menor,50,2020-10-15T11:16:38+00:00
+309713,RPVZ,small_airport,Siquijor Airport,9.212275,123.470685,36,AS,Philippines,PH,Siquijor Province,PH-SIG,SIG,Siquijor,0,RPVZ,,,,https://en.wikipedia.org/wiki/Siquijor_Airport,,50,2024-05-18T21:32:19+00:00
+321220,PH-0007,small_airport,Don Jesus Soriano (Doña Rosario) Airstrip,9.16944,125.56027,59,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Tubay,0,,,,,,,50,2021-11-08T18:08:54+00:00
+337810,PH-0235,heliport,SM City Clark Heliport,15.16888,120.57958,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Angeles,0,,,,,,,0,2020-12-16T11:31:40+00:00
+325990,PH-0088,closed,Barlo Airstrip,15.993665,119.921908,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Barlo,0,,,,,,Barlo,0,2021-03-16T18:12:17+00:00
+336088,PH-0177,closed,Batangas Airfield,13.77203,121.06114,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,,0,2020-09-24T11:59:03+00:00
+339275,PH-0272,heliport,SM Center Las Piñas Helipad,14.44886,120.9803,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Las Piñas,0,,,,,,,0,2021-01-12T12:22:47+00:00
+343752,PH-0386,heliport,Malolos Sport & Convention Center Helipad,14.86108,120.8092,,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Malolos,0,,,,,,,0,2021-04-29T17:24:44+00:00
+339292,PH-0286,heliport,SM City Marilao Heliport,14.75486,120.95565,,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Marilao,0,,,,,,,0,2021-01-12T11:57:18+00:00
+339308,PH-0300,heliport,SM Center Muntinlupa Heliport,14.37756,121.04519,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Muntinlupa,0,,,,,,,0,2021-01-12T12:26:39+00:00
+339282,PH-0277,heliport,SM City BF Parañaque Heliport,14.45775,121.03283,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2021-01-12T11:31:33+00:00
+337681,PH-0214,closed,Air Juan Puerto Galera Seaplane Base,13.50946,120.94719,,AS,Philippines,PH,Oriental Mindoro Province,PH-MDR,MDR,Puerto Galera,0,,,,,,,0,2024-06-26T14:58:28+00:00
+337841,PH-0248,closed,North Avenue / Quezon City Airfield,14.649465,121.034027,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2020-12-16T16:11:37+00:00
+325791,PH-0030,closed,Naulo Point Airstrip,15.713829,119.897844,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Santa Cruz,0,,,,,,Naulo Point,0,2020-10-15T11:07:23+00:00
+336816,PH-0182,heliport,Hanjin Heavy Industries Corporation Helipad,14.82267,120.20847,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Subic,0,,,,,,,0,2020-10-15T11:13:44+00:00
+5703,RPMJ,medium_airport,Jolo Airport,6.05366993,121.0110016,118,AS,Philippines,PH,Sulu Province,PH-SLU,SLU,,1,RPMJ,JOL,,,https://en.wikipedia.org/wiki/Jolo_Airport,,750,2008-06-13T14:30:04+00:00
+5737,RPVF,medium_airport,Catarman National Airport,12.50161,124.635258,6,AS,Philippines,PH,Northern Samar Province,PH-NSA,NSA,Catarman,1,RPVF,CRM,,,https://en.wikipedia.org/wiki/Catarman_National_Airport,,750,2022-08-30T13:07:47+00:00
+5722,RPUN,medium_airport,Naga Airport,13.5848999,123.2699966,142,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Naga,1,RPUN,WNP,,,https://en.wikipedia.org/wiki/Naga_Airport,,750,2008-06-13T14:30:04+00:00
+336104,LGP,medium_airport,Bicol International Airport,13.111915,123.676829,319,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi,1,RPLK,DRP,,https://caap.gov.ph/bicol-international-airport/,https://en.wikipedia.org/wiki/Bicol_International_Airport,Daraga,500,2023-04-11T14:01:01+00:00
+5748,RPVU,medium_airport,Tugdan Airport,12.31099987,122.0849991,10,AS,Philippines,PH,Romblon Province,PH-ROM,ROM,Tablas Island,1,RPVU,TBH,,,https://en.wikipedia.org/wiki/Tugdan_Airport,"Romblon Airport, Alcantara, Barangay Tugdan, Tablas Airport",500,2015-11-22T12:27:38+00:00
+5699,RPMF,medium_airport,Bislig Airport,8.195052,126.321015,12,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Bislig,0,RPMF,BPH,,,https://en.wikipedia.org/wiki/Bislig_Airport,,250,2022-11-15T12:07:27+00:00
+5729,RPUW,medium_airport,Marinduque Airport,13.36100006,121.8259964,32,AS,Philippines,PH,Marinduque Province,PH-MAD,MAD,Gasan,0,RPUW,MRQ,,,https://en.wikipedia.org/wiki/Marinduque_Airport,,250,2008-06-13T14:30:04+00:00
+351520,PH-0462,medium_airport,Central Mindanao Airport,6.91229,124.92446,164,AS,Philippines,PH,Cotabato Province,PH-NCO,NCO,M'lang,0,,,,,,"M'lang Rural, North Cotabato Rural",250,2022-01-15T13:09:38+00:00
+5694,RPMA,medium_airport,Allah Valley Airport,6.367903,124.752431,659,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,Surallah,0,RPMA,AAV,,,https://en.wikipedia.org/wiki/Allah_Valley_Airport,Alah Valley Airport,250,2021-10-06T16:44:46+00:00
+5702,RPMI,small_airport,Maria Cristina (Iligan) Airport,8.13049,124.214996,1300,AS,Philippines,PH,Lanao del Norte Province,PH-LAN,LAN,Balo-i,0,RPMI,IGN,,,https://en.wikipedia.org/wiki/Maria_Cristina_Airport,"Iligan Airport, Balo-i",150,2022-11-15T14:00:52+00:00
+46514,RPLN,small_airport,Palanan Community Airport,17.065667,122.427671,52,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Palanan,1,RPLN,,,,https://en.wikipedia.org/wiki/Palanan_Airport,"RPPA, Palanan",100,2017-12-27T15:11:41+00:00
+333098,RPSV,small_airport,San Vicente Airport,10.524298,119.272899,24,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,San Vicente,1,RPSV,SWL,,,https://en.wikipedia.org/wiki/San_Vicente_Airport,,100,2021-10-12T11:55:13+00:00
+5439,RP16,small_airport,Seahawk Lz Airstrip,6.65417,121.980003,1011,AS,Philippines,PH,Basilan Province,PH-BAS,BAS,,0,RP16,,RP16,,,Seahawk LZ,50,2018-01-28T04:46:41+00:00
+309715,RPVQ,small_airport,Biliran Airport,11.51591783,124.4289851,,AS,Philippines,PH,Biliran Province,PH-BIL,BIL,,0,RPVQ,,,,https://en.wikipedia.org/wiki/Biliran_Airport,,50,2013-10-06T08:26:17+00:00
+5731,RPUZ,small_airport,Bagabag Airport,16.6192,121.251999,820,AS,Philippines,PH,Nueva Vizcaya Province,PH-NUV,NUV,,0,RPUZ,,,,https://en.wikipedia.org/wiki/Bagabag_Airport,,50,2018-04-03T23:49:40+00:00
+349551,PH-0432,small_airport,Sagpangan Airport,9.51026,118.55405,187,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Aborlan,0,,,,,,,50,2021-11-08T17:53:23+00:00
+325950,PH-0075,small_airport,Jose Paredes Airbase,18.402542,120.666339,,AS,Philippines,PH,Ilocos Norte Province,PH-ILN,ILN,Agaga,0,,,,,,"Jose Parades, Agaga",50,2020-11-17T20:24:21+00:00
+349565,PH-0446,small_airport,Agutaya Airport,11.15911,120.95376,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Agutaya,0,,,,,,,50,2021-11-08T18:34:30+00:00
+309720,PH-0449,small_airport,Aparri (Maura) Airport,18.35485,121.653907,19,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Aparri,0,,,,,,RPUA,50,2021-12-20T08:32:02+00:00
+325938,PH-0069,small_airport,Fuga Airstrip,18.863326,121.283612,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Aparri,0,,,,,https://en.wikipedia.org/wiki/Fuga_Island,Fuga,50,2020-12-16T13:02:23+00:00
+325939,PH-0070,small_airport,Barit Island Airstrip,18.869946,121.256533,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Aparri,0,,,,,https://en.wikipedia.org/wiki/Barit_Island,Barit,50,2020-12-16T13:01:40+00:00
+325940,PH-0071,small_airport,Mabag Island Airstrip,18.884767,121.257048,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Aparri,0,,,,,,Mabag,50,2020-12-16T13:02:00+00:00
+349208,PH-0430,closed,Pradera Verde Executive Airpark,9.90918,123.59019,,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Argao,0,,,,,,FKauley Skyranch,50,2024-06-26T15:13:46+00:00
+504882,PH-0566,small_airport,Amoroy Airport,12.50281,123.37509,49,AS,Philippines,PH,Masbate Province,PH-MAS,MAS,Aroroy,0,,,,,,,50,2022-11-15T16:49:30+00:00
+504883,PH-0567,small_airport,Calanay Airport,12.4623,123.28436,69,AS,Philippines,PH,Masbate Province,PH-MAS,MAS,Aroroy,0,,,,,,,50,2022-11-15T16:51:15+00:00
+516554,PH-0590,small_airport,Asturias Airstrip,10.540039,123.745703,69,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Asturias,0,,,,,,,50,2023-12-04T12:46:09+00:00
+354412,PH-0482,small_airport,Candaraman Airport,8.076386,117.108078,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Balabac,0,,,,https://www.s1expeditions.com/,,,50,2022-11-08T03:18:42+00:00
+354951,PH-0485,small_airport,Bugsuk (Bonbon) Airport,8.228346,117.328627,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Balabac,0,,,,,,,50,2022-11-08T03:09:06+00:00
+504817,PH-0518,small_airport,Sibaring Airstrip,8.18504,117.29262,17,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Balabac,0,,,,,,Sebaring,50,2024-06-29T08:04:33+00:00
+504869,PH-0553,small_airport,Balabagan Airport,7.51461,124.12312,49,AS,Philippines,PH,Lanao del Sur Province,PH-LAS,LAS,Balabagan,0,,,,,,,50,2022-11-15T14:33:48+00:00
+324042,RPBL,small_airport,Balesin Island Airport,14.419365,122.039402,25,AS,Philippines,PH,Basilan Province,PH-BAS,BAS,Balesin,0,RPLE,BSI,,,https://en.wikipedia.org/wiki/Balesin_Island_Airport,RPBL,50,2020-10-15T11:23:26+00:00
+343846,PH-0390,small_airport,Bamban Airfield,15.30142,120.58954,187,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Bamban,0,,,,,,,50,2021-05-02T00:00:56+00:00
+516438,PH-0586,small_airport,Basay Emergency Airport,9.46974,122.66149,1112,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Basay,0,,,,,,,50,2023-12-02T12:20:22+00:00
+504816,PH-0517,small_airport,Bataraza Airport,8.67187,117.61865,39,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Bataraza,0,,,,,,,50,2022-11-14T11:28:20+00:00
+5750,RPVW,small_airport,Borongan Airport,11.674262,125.479259,7,AS,Philippines,PH,Eastern Samar Province,PH-EAS,EAS,Borongan City,0,RPVW,BPA,,,https://en.wikipedia.org/wiki/Borongan_Airport,,50,2023-03-15T19:15:29+00:00
+504730,PH-0504,small_airport,Philippine Adventist Medical Aviation Service Airstrip,8.86132,117.86828,66,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Brooke's Point,0,,,,,,,50,2022-11-14T11:07:34+00:00
+504815,PH-0516,small_airport,Samariniana Airfield,8.72312,117.74438,102,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Brooke's Point,0,,,,,,,50,2022-11-14T11:23:10+00:00
+504832,PH-0533,small_airport,Guimaras Airport,10.69421,122.66521,262,AS,Philippines,PH,Guimaras Province,PH-GUI,GUI,Buenavista,0,,,,,,,50,2022-11-14T14:07:11+00:00
+337807,PH-0232,small_airport,Bitulok Airstrip,15.48505,121.28535,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Bugnan,0,,,,,,,50,2020-12-16T11:26:02+00:00
+32229,RPUU,small_airport,Bulan Airport,12.6842,123.877998,3937,AS,Philippines,PH,Sorsogon Province,PH-SOR,SOR,Bulan,0,RPUU,,,,https://en.wikipedia.org/wiki/Bulan_Airport,,50,2024-05-21T16:03:55+00:00
+430583,PH-0496,small_airport,SUMAPI Airstrip,12.16148,119.90921,10,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Busuanga,0,,,,,,Old Busuanga,50,2022-10-19T16:14:14+00:00
+535032,PH-0593,small_airport,Cagayancillo Airstrip,9.56956,121.18637,20,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Cagayancillo,0,,,,,,Magsaysay,50,2024-06-26T15:06:41+00:00
+325996,PH-0093,closed,Calatagan (Hacienda Zobel) Airstrip,13.843496,120.633745,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Calatagan,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Catalagan, Hacienda Zobel, Hacienda Bigaa",50,2024-06-15T21:43:51+00:00
+326144,PH-0156,small_airport,Refugio Airstrip,10.51524,123.447104,13,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Calatrava,0,,,,,,Refugio,50,2021-10-12T12:08:58+00:00
+337825,PH-0247,small_airport,Calayan Airport,19.25716,121.489145,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Calayan,0,,,,,,"Dadao, Paliparang Calayan, Pagtayaban ti Calayan",50,2022-11-08T01:33:06+00:00
+313724,RPUE,small_airport,Semirara Airport,12.07522,121.38847,,AS,Philippines,PH,Antique Province,PH-ANT,ANT,Caluya,0,RPUE,,,,,"Semirara, Caluya",50,2021-12-18T17:44:36+00:00
+336813,RPLQ,small_airport,Colonel Ernesto Rabina Air Base,15.317683,120.422891,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Capas,0,RPLQ,,,,,Crow Valley Gunnery Range,50,2020-10-15T11:00:54+00:00
+351884,PH-0471,small_airport,Lahuy Airport,13.91954,123.81399,1,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Caramoan,0,,,,,,,50,2022-01-24T15:28:22+00:00
+309145,ICO,small_airport,Sicogon Airstrip,11.4595,123.2506,25,AS,Philippines,PH,Iloilo Province,PH-ILI,ILI,Carles,0,,ICO,,,https://en.wikipedia.org/wiki/Sicogon_Airport,,50,2024-05-18T16:10:39+00:00
+349559,PH-0440,small_airport,Lanuza (Carmen) Airport,9.23083,125.99777,43,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Carmen,0,,,,,,,50,2021-11-08T18:21:43+00:00
+32227,RPUJ,small_airport,Castillejos - Jesus F Magsaysay Airfield,14.94634,120.190194,200,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Castillejos,0,RPUJ,,,,,Castillejos,50,2020-10-15T11:03:33+00:00
+326067,PH-0148,small_airport,San Marcellino Airfield,14.960292,120.206566,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Castillejos,0,,,,,https://en.wikipedia.org/wiki/San_Marcelino_Airfield,San Marcellino,50,2018-01-04T23:18:39+00:00
+348729,PH-0429,small_airport,Cordon Airport,16.65674,121.43291,538,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Cordon,0,,,,,,,50,2021-10-13T13:59:02+00:00
+430584,PH-0497,small_airport,Coron Rural Airport,12.01289,120.2007,69,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Coron,0,,,XCN,,,,50,2022-11-14T09:41:12+00:00
+316499,CUJ,small_airport,Culion Airport,11.8553,119.9378,155,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Culion,0,,CUJ,,,,Patag Airstrip,50,2022-10-19T16:14:38+00:00
+349209,PH-0431,small_airport,Casay Airstrip,9.821379,123.547936,157,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Dalaguete,0,,,,,,,50,2022-11-15T15:09:16+00:00
+504873,PH-0557,small_airport,Danao Ultralight Airport,9.96899,124.20284,328,AS,Philippines,PH,Bohol Province,PH-BOH,BOH,Danao,0,,,,,,,50,2022-11-15T15:07:45+00:00
+351518,PH-0460,small_airport,Datu Paglas Airport,6.75625,124.85329,75,AS,Philippines,PH,Maguindanao del Sur Province,PH-MDS,MDS,Datu Paglas,0,,,,,,Alip River Development & Export Corporation,50,2022-11-15T13:17:33+00:00
+337354,PH-0197,small_airport,Guianga Airstrip,7.09551,125.39023,2402,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Davao,0,,,,,,,50,2022-11-15T13:26:25+00:00
+349552,PH-0433,small_airport,Dacudao Airport,7.2289,125.45724,732,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Davao,0,,,,,,,50,2022-11-15T13:48:53+00:00
+351519,PH-0461,small_airport,Digal Airport,6.73805,124.82675,61,AS,Philippines,PH,Maguindanao del Sur Province,PH-MDS,MDS,Digal,0,,,,,,,50,2022-10-01T19:25:25+00:00
+302475,DSG,small_airport,Dilasag Airport,16.44583333,122.2068056,60,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Dilasag,0,,DSG,,,,,50,2012-08-16T18:07:36+00:00
+325711,PH-0022,small_airport,Dinapigue Airstrip,16.521518,122.264357,,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Dinapigue,0,,,,,,Dinapigue,50,2017-12-03T13:16:27+00:00
+326002,PH-0098,small_airport,Ibonan Airstrip,15.304634,121.375591,,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Dingalan,0,,,,,,"Ibonan, Dingalan",50,2018-01-02T01:05:31+00:00
+337334,PH-0188,small_airport,Salolwan Airstrip,17.27165,122.42886,,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Divilacan,0,,,,,,Bicobian Bay,50,2024-06-29T08:02:06+00:00
+338458,PH-0270,small_airport,Lamitan Airstrip,6.07693,125.70159,,AS,Philippines,PH,Davao Occidental Province,PH-DVO,DVO,Don Marcelino,0,,,,,,,50,2022-01-15T11:44:54+00:00
+348387,PH-0418,small_airport,Lapanday Foods Guihing Airport,6.69495,125.3609,33,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Hagonoy,0,,,,,,,50,2022-11-15T13:22:55+00:00
+508668,PH-0571,small_airport,Bacuyangan Airport,9.63517,122.46013,20,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Hinoba-an,0,,,,,,,50,2023-05-17T07:17:12+00:00
+337332,PH-0176,small_airport,Bicobian Bay Airstrip,17.34772,122.36638,26,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Ilagan,0,,,,,,,50,2020-11-17T19:57:52+00:00
+31683,RPMV,small_airport,Ipil Airport,7.784898,122.6015,,AS,Philippines,PH,Zamboanga Sibiguey Province,PH-ZSI,ZSI,Ipil,0,RPMV,IPE,,,https://en.wikipedia.org/wiki/Ipil_Airport,,50,2024-05-20T19:04:33+00:00
+326269,PH-0163,closed,Isabela Airstrip,6.688227,121.947518,,AS,Philippines,PH,Basilan Province,PH-BAS,BAS,Isabela,0,,,,,,Isabela,50,2022-11-15T16:31:29+00:00
+325998,PH-0095,small_airport,Dibagat Airstrip,18.080335,121.099768,,AS,Philippines,PH,Apayao Province,PH-APA,APA,Kabugao,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Dibagat, Kabugao",50,2018-01-01T15:52:25+00:00
+504870,PH-0554,small_airport,Kalamansig Airport,6.56,124.05329,23,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Kalamansig,0,,,,,,,50,2022-11-15T14:37:54+00:00
+338217,PH-0261,closed,Mabantao Airstrip,7.62172,125.72929,85,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Kapalong,0,,,,,,,50,2022-11-15T13:42:03+00:00
+338218,PH-0262,small_airport,Sampao Airstrip,7.60421,125.65461,115,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Kapalong,0,,,,,,,50,2022-08-01T14:26:48+00:00
+348388,PH-0419,small_airport,Kling Airport,5.93761,124.74409,128,AS,Philippines,PH,Sarangani Province,PH-SAR,SAR,Kiamba,0,,,,,,,50,2021-10-06T16:50:56+00:00
+348393,PH-0423,closed,MILUDECO Airstrip,6.01715,124.58459,33,AS,Philippines,PH,Sarangani Province,PH-SAR,SAR,Kiamba,0,,,,,,,50,2022-11-15T14:42:23+00:00
+326143,PH-0155,closed,Findlay Millar Lumber Airstrip,8.11027,123.88301,3,AS,Philippines,PH,Lanao del Norte Province,PH-LAN,LAN,Kolambugan,0,,,,,,"Baybay, Titunud, Finlay Millar Lumber",50,2022-11-15T14:02:15+00:00
+337350,PH-0193,small_airport,Kasapa Airstrip,8.1654,125.6345,577,AS,Philippines,PH,Agusan del Sur Province,PH-AGS,AGS,La Paz,0,,,,,,,50,2022-11-15T12:11:50+00:00
+325949,PH-0074,small_airport,Lal-lo Airstrip,18.129702,121.686544,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Lal-lo,0,,,,,,Lal-lo,50,2017-12-25T01:12:24+00:00
+351523,PH-0464,small_airport,Lambayong Airport,6.84746,124.64463,52,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Lambayong,0,,,,,,,50,2022-01-15T13:11:41+00:00
+356408,PH-0489,small_airport,Batag Airport,12.61662,125.05035,46,AS,Philippines,PH,Northern Samar Province,PH-NSA,NSA,Laoang,0,,,,,,,50,2022-08-30T12:51:28+00:00
+325639,RPUP,small_airport,Jose Panganiban (Larap) Airstrip,14.293288,122.645659,,AS,Philippines,PH,Camarines Norte Province,PH-CAN,CAN,Larap,0,RPUP,,,,"https://en.wikipedia.org/wiki/Jose_Panganiban,_Camarines_Norte#Airport_and_Seaports","Jose Panganiban, Larap",50,2020-11-18T09:36:10+00:00
+313843,LWA,small_airport,Lebak Rural Airport,6.6739,124.0581,16,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Lebak,0,,LWA,,,,"Doña Annie Sabala Vallite Alabastro Memorial Private, Lorenzo Palileo",50,2022-11-15T14:39:44+00:00
+309718,RPMX,small_airport,Liloy Airport,8.102059,122.670422,,AS,Philippines,PH,Zamboanga del Norte Province,PH-ZAN,ZAN,Liloy,0,RPMX,,,,,,50,2021-10-13T23:44:03+00:00
+535036,PH-0595,small_airport,Limasawa Airstrip,9.96282,125.06123,,AS,Philippines,PH,Southern Leyte Province,PH-SLE,SLE,Limasawa,0,,,,,,,50,2024-06-26T17:29:02+00:00
+5720,RPUL,small_airport,Basilio Fernando Air Base,13.955,121.125,1220,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lipa,0,RPUL,,,,https://en.wikipedia.org/wiki/Basilio_Fernando_Air_Base,,50,2024-05-18T21:31:39+00:00
+337353,PH-0196,closed,Waloe Airstrip,8.217171,125.783844,220,AS,Philippines,PH,Agusan del Sur Province,PH-AGS,AGS,Loreto,0,,,,,,,50,2022-11-15T12:10:42+00:00
+508759,PH-0576,small_airport,Pradera Verde Airfield,14.88105,120.50419,49,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Lubao,0,,,,,,,50,2023-05-18T11:57:24+00:00
+32225,PH-0448,closed,Former Lucena Airport,13.931193,121.6011,39,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Lucena,0,,,,,"https://en.wikipedia.org/wiki/Lucena,_Philippines#Transportation",Lucena,50,2022-10-13T15:15:16+00:00
+504862,PH-0546,small_airport,Macangao Airport,6.9067,126.07623,108,AS,Philippines,PH,Davao Oriental Province,PH-DAO,DAO,Lupon,0,,,,,,,50,2022-11-15T11:45:49+00:00
+325994,PH-0091,closed,Bundagul Airstrip,15.240879,120.599016,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Bundagul, Mabalacat, TIPCO",50,2023-11-12T19:02:28+00:00
+336811,PH-0178,small_airport,PAL Aviation and Omni Runway,15.172672,120.564126,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,,,,50,2022-09-22T20:07:45+00:00
+337359,PH-0202,small_airport,Mampising (LADECO-Maryland) Airstrip,7.26207,125.84254,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Mabini,0,,,,,,,50,2022-11-15T11:16:38+00:00
+337363,PH-0206,small_airport,Tagum Airport / Pangi (Rico Vista) Airstrip,7.44834,125.84134,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Maco,0,,,,,,,50,2022-01-15T13:19:55+00:00
+325712,PH-0023,small_airport,Maconacon Airstrip,17.382996,122.247963,,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Maconacon,0,,,,,,Maconacon,50,2017-12-03T14:08:40+00:00
+348389,PH-0420,small_airport,Lapanday Foods Kalaong Airport,6.08181,124.466,59,AS,Philippines,PH,Sarangani Province,PH-SAR,SAR,Maitum,0,,,,,,,50,2022-11-15T13:22:40+00:00
+31919,RPMM,small_airport,Malabang Airport,7.616911,124.057961,27,AS,Philippines,PH,Lanao del Sur Province,PH-LAS,LAS,Malabang,0,RPMM,MLP,,,https://en.wikipedia.org/wiki/Malabang_Airport,,50,2024-05-17T08:29:58+00:00
+351505,PH-0450,small_airport,Malalag Airport,6.57319,125.3968,125,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Malalag,0,,,,,,,50,2022-01-15T12:37:36+00:00
+348636,PH-0424,small_airport,Malangas Airport,7.65118,123.01797,387,AS,Philippines,PH,Zamboanga Sibiguey Province,PH-ZSI,ZSI,Malangas,0,,,,,,,50,2022-11-15T15:30:12+00:00
+32224,RPMY,closed,Malaybalay Airport,8.14166,125.117,2051,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Malaybalay City,0,,,,,,RPMY,50,2016-10-29T16:10:41+00:00
+5440,RP17,small_airport,Malita Airport,6.402734,125.619264,16,AS,Philippines,PH,Davao Occidental Province,PH-DVO,DVO,Malita,0,RP17,,RP17,,,,50,2020-11-18T10:01:12+00:00
+326003,PH-0099,small_airport,Lepanto Mines Airstrip,16.870549,120.779014,,AS,Philippines,PH,Benguet Province,PH-BEN,BEN,Mankayan,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Lepanto Mines, Mankayan",50,2018-01-02T01:32:13+00:00
+351513,PH-0456,small_airport,Del Monte Plantation Airport,8.34813,124.85059,1973,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Manolo Fortich,0,RPMT,,,,,"Camp 3, Manolo Fortich",50,2024-06-29T08:37:40+00:00
+32232,RPVL,small_airport,Wasig Airport,12.534661,121.482803,17,AS,Philippines,PH,Oriental Mindoro Province,PH-MDR,MDR,Mansalay,0,RPLG,,,,,,50,2024-04-10T07:22:54+00:00
+337360,PH-0203,small_airport,Mapawa Airstrip,7.30726,126.1468,2080,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Maragusan,0,,,,,,,50,2022-11-15T11:52:15+00:00
+313435,XMA,small_airport,Maramag Airport,7.7538,125.0333,919,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Maramag,0,,XMA,,http://www.pbase.com/philippineaviation/maramagoadi_airport_bukidnon,,Oadi,50,2022-01-15T11:59:30+00:00
+326010,PH-0103,small_airport,Poon Coto Airstrip,15.580845,120.068271,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Masinloc,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Poon Coto, Masinloc",50,2018-01-02T03:54:49+00:00
+337358,PH-0201,small_airport,Dizon Airstrip,7.48762,125.93749,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Mawab,0,,,,,,,50,2022-11-15T11:51:05+00:00
+337361,PH-0204,small_airport,Mawab Airstrip,7.5323,125.94423,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Mawab,0,,,,,,,50,2022-11-15T11:51:21+00:00
+325988,PH-0087,small_airport,Apuao Grande Island Airstrip,14.084946,123.092194,,AS,Philippines,PH,Camarines Norte Province,PH-CAN,CAN,Mercedes,0,,,,,,Apuao Grande,50,2020-11-18T09:39:21+00:00
+504881,PH-0565,small_airport,Manato Airport,12.18464,123.62061,161,AS,Philippines,PH,Masbate Province,PH-MAS,MAS,Milagros,0,,,,,,,50,2022-11-15T16:48:08+00:00
+337362,PH-0205,small_airport,Neda Airstrip,7.73958,126.07511,223,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Monkayo,0,,,,,,,50,2021-10-05T23:36:12+00:00
+504863,PH-0547,small_airport,Union Airstrip,7.79083,126.08428,276,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Monkayo,0,,,,,,,50,2022-11-15T12:04:13+00:00
+337355,PH-0198,small_airport,Consuelo Airstrip 1,7.64333,126.09444,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,New Bataan,0,,,,,,Compostela Airstrip 1,50,2022-11-15T11:57:28+00:00
+337356,PH-0199,small_airport,Consuelo Airstrip 2,7.633245,126.088822,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,New Bataan,0,,,,,,Compostela Airstrip 2,50,2022-11-15T11:57:11+00:00
+342190,PH-0358,small_airport,New Sambog Airstrip,7.60964,125.80363,81,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,New Corella,0,,,,,,NECO,50,2022-11-15T13:42:58+00:00
+504867,PH-0551,small_airport,Lapanday Foods Macgum Airport,7.67359,125.82582,131,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,New Corella,0,,,,,,,50,2022-11-15T13:44:28+00:00
+5435,RP12,small_airport,Pagbilao Grande Island Airport,13.9002,121.744003,13,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Pagbilao,0,RP12,,RP12,,,,50,2020-11-18T09:38:12+00:00
+348392,PH-0422,closed,Milbuk Airport,6.16047,124.28041,16,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Palimbang,0,,,,,,,50,2022-11-15T14:48:34+00:00
+342185,PH-0353,small_airport,A O Floirendo Airstrip,7.38908,125.57206,118,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Panabo,0,,,,,,,50,2022-11-15T13:32:06+00:00
+342186,PH-0354,small_airport,Searbemco Airstrip,7.380145,125.58743,75,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Panabo,0,,,,,,Dapco,50,2022-11-15T13:32:33+00:00
+342187,PH-0355,small_airport,Evergreen Farms Airstrip,7.30567,125.65782,58,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Panabo,0,,,,,,,50,2022-11-15T13:30:00+00:00
+342188,PH-0356,small_airport,Kasilak Airstrip,7.3335,125.5971,108,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Panabo,0,,,,,,,50,2021-03-18T13:58:05+00:00
+337365,PH-0207,small_airport,Tibagon Airstrip,7.24833,125.84361,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Pantukan,0,,,,,,,50,2020-11-18T10:12:01+00:00
+504860,PH-0544,small_airport,Musahamat Farms Airport,7.18966,125.87845,62,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Pantukan,0,,,,,,,50,2022-11-15T11:37:29+00:00
+504861,PH-0545,small_airport,PIntatagan Airport,7.0776,125.94147,52,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,Pantukan,0,,,,,,,50,2022-11-15T11:42:44+00:00
+325681,PH-0020,small_airport,Paracale Airstrip,14.2881,122.80068,,AS,Philippines,PH,Camarines Norte Province,PH-CAN,CAN,Paracale,0,,,,,,Paracale,50,2018-01-02T03:25:39+00:00
+32223,RPLY,small_airport,Alabat Island Airport,14.232,121.929001,6,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Perez,0,RPLY,,,,,,50,2020-11-18T09:37:09+00:00
+5685,RPLA,small_airport,Pinamalayan Airport,12.9858,121.426003,92,AS,Philippines,PH,Oriental Mindoro Province,PH-MDR,MDR,Pinamalayan,0,RPLA,,RP11,,,,50,2020-12-16T16:46:26+00:00
+504872,PH-0556,small_airport,Philippines Paramotor Training Field,6.28177,125.0104,1581,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,Polomolok,0,,,,,,,50,2022-11-15T15:02:23+00:00
+351522,PH-0463,closed,President Quirino Airport,6.71163,124.72773,105,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,President Quirino,0,,,,,,President Kirinu,50,2022-11-15T13:15:46+00:00
+508762,PH-0579,small_airport,Tala Beach Airfield,9.98197,118.66476,62,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Puerto Princesa,0,,,,,,,50,2023-05-18T12:22:54+00:00
+504731,PH-0505,small_airport,Isugod Airstrip,9.3339,118.13615,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Quezon,0,,,,,,,50,2022-11-08T03:52:22+00:00
+504732,PH-0506,small_airport,Berong Airport,9.47611,118.20977,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Quezon,0,,,,,,,50,2022-11-08T03:53:21+00:00
+504733,PH-0507,small_airport,Apurawan Airport,9.59763,118.33837,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Quezon,0,,,,,,Apurauan,50,2022-11-14T09:29:00+00:00
+5437,RP14,closed,Magat River Multipurpose Project  Airstrip,16.829927,121.499659,384,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Ramon,0,,,,,,"Ambatali, MRMP, Magat River Management Project, Magat Dam, RP0D",50,2022-08-08T00:49:06+00:00
+354949,PH-0484,small_airport,Rio Tuba Airport,8.549497,117.436259,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rio Tuba,0,,,,,,,50,2022-11-14T09:40:47+00:00
+504728,PH-0502,small_airport,Tagbita Airstrip,8.71491,117.35259,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rizal,0,,TGB,TGB,,,,50,2024-04-09T16:12:10+00:00
+504729,PH-0503,small_airport,Rizal Airport,9.01267,117.65527,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rizal,0,,,,,,,50,2022-11-08T03:49:39+00:00
+504811,PH-0514,small_airport,Tarumpitao Point Airfield,9.04366,117.6336,23,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rizal,0,RPTP,,,,,,50,2022-11-14T09:32:01+00:00
+430071,PH-0492,small_airport,Three Thirty Airstrip,10.01095,123.42209,125,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Ronda,0,,,,,,,50,2022-09-22T16:58:07+00:00
+337844,PH-0251,small_airport,General Emilio Aguinaldo Airstrip,12.81818,120.88265,,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,Sablayan,0,,,,,,,50,2020-12-16T16:45:41+00:00
+326012,PH-0105,small_airport,Samal (Bataan 2020) Airstrip,14.770725,120.506081,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Samal,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Samal, Bataan 2020",50,2020-07-16T16:20:32+00:00
+308652,PH-0002,small_airport,San Antonio Airport,12.417,124.2742,3,AS,Philippines,PH,Northern Samar Province,PH-NSA,NSA,San Antonio,0,,,,,https://en.wikipedia.org/wiki/San_Antonio_Airport_(Philippines),"Dalupiri, Dalupiri Island National, Luparan han San Antonio, Paliparan ng San Antonio, Tugpahanan sa San Antonio",50,2022-08-30T13:07:11+00:00
+308653,PH-0003,small_airport,Azagra Airstrip,12.2799,122.6246,10,AS,Philippines,PH,Romblon Province,PH-ROM,ROM,San Fernando,0,,,,,,,50,2020-12-29T16:33:01+00:00
+430069,PH-0490,small_airport,Camotes Airstrip,10.65955,124.37011,70,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,San Francisco,0,,,,,,,50,2022-09-22T16:48:08+00:00
+326009,PH-0102,small_airport,Pinili Airstrip,15.762353,121.03157,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,San Jose,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Pinili, San Jose, Upper Pampanga River Project",50,2018-01-02T03:41:34+00:00
+337349,PH-0192,small_airport,Doña Flavia Airstrip,8.46837,125.71063,184,AS,Philippines,PH,Agusan del Sur Province,PH-AGS,AGS,San Luis,0,,,,,,,50,2021-10-05T23:20:44+00:00
+326021,PH-0109,small_airport,San Vicente Naval Airstrip,18.503785,122.148979,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Santa Ana,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"San Vicente, Santa Ana",50,2018-01-03T03:54:26+00:00
+537863,PH-0598,small_airport,URC Tolong Airstrip,9.35211,122.84822,33,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Santa Catalina,0,,,,,,Caranoche,50,2024-07-17T07:45:21+00:00
+537864,PH-0599,small_airport,RSY Tolong Airstrip,9.32164,122.87817,43,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Santa Catalina,0,,,,,,,50,2024-07-17T07:46:58+00:00
+342182,PH-0350,small_airport,La Libertad Airstrip,7.46943,125.63599,69,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Santo Tomas,0,,,,,,"Braulio E. Dujali, Farmington",50,2022-11-15T13:34:46+00:00
+342183,PH-0351,small_airport,TADECO Santo Tomas Airstrip,7.43677,125.5999,108,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Santo Tomas,0,,,,,,,50,2022-11-15T13:34:02+00:00
+342184,PH-0352,small_airport,MEPI Aerodrome,7.51213,125.64206,89,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Santo Tomas,0,,,,,,,50,2022-11-15T13:36:06+00:00
+351515,PH-0458,small_airport,Lunga-og Airport,7.54462,125.69984,71,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Santo Tomas,0,,,,,,Kimamon,50,2022-11-15T13:39:23+00:00
+351516,PH-0459,small_airport,Kapalong Airport,7.57119,125.63414,185,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Santo Tomas,0,,,,,,,50,2022-08-01T14:27:52+00:00
+309717,PRNO,small_airport,Siocon Airport,7.710035,122.161989,60,AS,Philippines,PH,Zamboanga del Norte Province,PH-ZAN,ZAN,Siocon,0,RPNO,XSO,,,,,50,2024-04-04T08:07:25+00:00
+516442,PH-0587,small_airport,Sipalay (San Jose) Airport,9.79231,122.45134,89,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Sipalay,0,,,,,,Maricalum Mining Corporation,50,2024-06-26T15:11:10+00:00
+348662,PH-0428,small_airport,Nabulao Airstrip,9.664463,122.535617,1492,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Sipalay,0,,,,,,,50,2021-10-12T12:06:45+00:00
+351524,PH-0465,small_airport,Sirawai Airport,7.58649,122.15746,46,AS,Philippines,PH,Zamboanga del Norte Province,PH-ZAN,ZAN,Sirawai,0,,,,,,,50,2022-01-15T13:12:31+00:00
+42465,RPLZ,small_airport,Bacon Community Airport,13.006983,124.025731,120,AS,Philippines,PH,Sorsogon Province,PH-SOR,SOR,Sorsogon,0,RPLZ,,,,,,50,2023-04-11T15:43:22+00:00
+5436,RP13,closed,Nonoc Airport,9.809309,125.595318,10,AS,Philippines,PH,Surigao del Norte Province,PH-SUN,SUN,Surigao City (Nonoc Island),0,,,,,,RP13,50,2023-12-24T05:37:28+00:00
+349561,PH-0442,small_airport,Tagbina Airport,8.4775,126.13388,115,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Tagbina,0,,,,,,,50,2021-11-08T18:21:20+00:00
+325717,PH-0024,small_airport,Taggat Airstrip,18.604703,121.061954,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Taggat,0,,,,,,"Taggat, Claveria",50,2017-12-04T00:53:39+00:00
+342189,PH-0357,small_airport,Madaum Airstrip,7.38628,125.82884,47,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Tagum,0,,,,,,Hijo Airstrip,50,2022-11-15T11:16:10+00:00
+351514,PH-0457,small_airport,La Filipina Airport,7.47397,125.78789,61,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Tagum,0,,,,,,,50,2022-11-15T11:50:08+00:00
+504864,PH-0548,small_airport,Talayan Airport,6.97865,124.34272,92,AS,Philippines,PH,Maguindanao del Sur Province,PH-MDS,MDS,Talayan,0,,,,,,,50,2022-11-15T13:08:13+00:00
+348386,PH-0417,small_airport,Lapanday Foods Tampakan Airport,6.410262,124.935451,522,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,Tampakan,0,,,,,,,50,2022-11-15T13:24:06+00:00
+325991,PH-0089,small_airport,Manny W Barradas Airstrip,14.096517,121.115245,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Tanauan,0,,,,,,"Barradas, Tanauan",50,2020-09-24T12:00:04+00:00
+326020,PH-0108,small_airport,Captain Mateo Capinpin Airstrip,14.53567,121.364572,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Tanay,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,Captain Mateo Capinpin,50,2018-01-03T02:52:47+00:00
+325986,PH-0085,closed,Alto Airfield,15.424775,120.631911,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Tarlac City,0,,,,,,"Alto, Tarlac",50,2023-11-12T19:03:18+00:00
+516445,PH-0589,small_airport,Tambo Airport,9.91655,123.07378,1368,AS,Philippines,PH,Negros Oriental Province,PH-NER,NER,Tayasan,0,,,,,,,50,2023-12-02T12:43:30+00:00
+504735,PH-0509,small_airport,Bato Airport,10.70576,119.486132,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Taytay,0,,,,,,,50,2022-11-08T03:59:49+00:00
+326285,PH-0164,small_airport,Sangi Airstrip,10.392492,123.645,,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Toledo,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Unclassified_aerodromes,"Sangi, Toledo",50,2021-10-12T11:59:11+00:00
+337382,PH-0005,small_airport,Tuy Airstrip,14.014444,120.734722,236,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Tuy,0,,,TUY,,,,50,2022-01-08T15:10:29+00:00
+309716,RPSN,small_airport,Ubay Airport,10.059037,124.425573,7,AS,Philippines,PH,Bohol Province,PH-BOH,BOH,Ubay,0,RPSN,,,,https://en.wikipedia.org/wiki/Ubay_Airport,,50,2022-09-26T00:18:57+00:00
+356316,PH-0488,small_airport,Mountain View College Airport,7.98796,125.02664,,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Valencia,0,,,,,,,50,2022-08-24T14:05:49+00:00
+351512,PH-0455,small_airport,Lurugan Airport,7.98365,125.05351,1713,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Valencia City,0,,,,,,,50,2022-01-15T13:00:27+00:00
+309719,PH-0004,small_airport,Wao Airport,7.63652,124.73388,,AS,Philippines,PH,Lanao del Sur Province,PH-LAS,LAS,Wao,0,,,,,,Landing a Wao,50,2022-11-15T12:32:56+00:00
+351508,PH-0451,heliport,Sarangani Provincial Capitol Heliport,6.10057,125.27113,52,AS,Philippines,PH,Sarangani Province,PH-SAR,SAR,Alabel,0,,,,,,,0,2022-01-15T12:47:59+00:00
+343753,PH-0387,closed,Thousand Islands International Airport (under construction),16.14357,120.03444,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Alaminos,0,,,,,,,0,2021-04-29T17:25:51+00:00
+336812,PH-0179,heliport,Angeles University Medical Center Helipad,15.144919,120.594875,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Angeles,0,,,,,,,0,2020-10-15T10:56:32+00:00
+337683,PH-0215,closed,Angeles West Airfield,15.13013,120.56456,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Angeles,0,,,,,,,0,2020-12-13T12:36:46+00:00
+341180,PH-0319,closed,Angeles Airfield,15.12128,120.59572,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Angeles,0,,,,,,,0,2021-02-17T18:13:52+00:00
+341181,PH-0320,closed,Angeles Northeast Airfield,15.15326,120.60049,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Angeles,0,,,,,,,0,2021-02-17T18:14:35+00:00
+337715,PH-0218,heliport,Philippine National Bank Angono Branch Helipad,14.52375,121.15293,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Angono,0,,,,,,,0,2020-12-13T18:27:25+00:00
+337716,PH-0219,heliport,SM Center Angono Helipad,14.53054,121.15461,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Angono,0,,,,,,,0,2020-12-13T18:28:49+00:00
+339293,PH-0287,heliport,SM City Masinag Heliport,14.62639,121.12022,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Antipolo,0,,,,,,,0,2021-01-12T11:58:01+00:00
+504866,PH-0550,closed,Magatos Airport,7.55056,125.73043,62,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Asuncion,0,,,,,,,0,2022-11-15T13:38:22+00:00
+330813,PH-0168,closed,Porac Airfield,15.073444,120.542486,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Babo Sacan,0,,,,,https://en.wikipedia.org/wiki/Porac_Airfield,"Porac, Babo Sacan",0,2019-03-19T23:42:06+00:00
+343847,PH-0391,closed,Angeles South (Lara) Airfield,15.08077,120.60094,190,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Bacolor,0,,,,,,,0,2021-05-02T00:04:21+00:00
+339281,PH-0276,heliport,SM City Bacoor Heliport,14.44391,120.95059,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Bacoor,0,,,,,,,0,2021-01-12T11:30:24+00:00
+339294,PH-0288,heliport,SM City Molino Heliport,14.38439,120.97659,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Bacoor,0,,,,,,,0,2021-01-12T11:58:50+00:00
+508758,PH-0575,heliport,NPC-NPV Heliport,14.60504,120.39634,125,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Bagac,0,,,,,,,0,2023-05-18T11:51:00+00:00
+302045,BNQ,closed,Baganga Airport,7.611944,126.568889,42,AS,Philippines,PH,Davao Oriental Province,PH-DAO,DAO,Baganga,0,,,,,,BNQ,0,2022-11-15T11:46:22+00:00
+337817,PH-0242,heliport,Camp John Hay Forest Lodge Helipad,16.40193,120.61779,,AS,Philippines,PH,Benguet Province,PH-BEN,BEN,Baguio,0,,,,,,,0,2020-12-16T11:56:18+00:00
+337818,PH-0243,heliport,Camp John Hay White House Helipad,16.40271,120.61718,,AS,Philippines,PH,Benguet Province,PH-BEN,BEN,Baguio,0,,,,,,,0,2020-12-16T11:56:52+00:00
+337819,PH-0244,heliport,Camp John Hay Country Estates Helipad,16.40269,120.61818,,AS,Philippines,PH,Benguet Province,PH-BEN,BEN,Baguio,0,,,,,,,0,2020-12-16T11:58:26+00:00
+354413,PH-0483,heliport,Candaraman Island Helipad,8.082791,117.101292,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Balabac,0,,,,,,,0,2022-11-08T03:18:24+00:00
+504831,PH-0532,heliport,Sibaring Heliport,8.18136,117.29615,13,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Balabac,0,,,,,,Sebaring,0,2024-06-29T08:04:59+00:00
+326186,PH-0159,heliport,Balamban Heliport,10.470439,123.69704,,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Balamban,0,,,,,,Balamban,0,2018-01-21T06:08:31+00:00
+337846,PH-0253,closed,Balayan (Magabe) Airfield,13.95161,120.73582,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Balayan,0,,,,,,,0,2020-12-16T16:53:45+00:00
+339283,PH-0278,heliport,SM City Baliwag Heliport,14.96088,120.8897,,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Baliuag,0,,,,,,,0,2021-01-12T11:32:56+00:00
+343772,PH-0389,heliport,Baliuag Heliport,14.96542,120.8948,59,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Baliuag,0,,,,,,,0,2021-04-29T21:26:04+00:00
+430596,PH-0498,closed,Daja Airstrip,11.56298,122.30838,98,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Banga,0,,,,,,,0,2022-10-20T13:28:34+00:00
+349557,PH-0438,closed,Barobo Airport,8.53277,126.06861,180,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Barobo,0,,,,,,,0,2021-11-08T18:16:11+00:00
+325553,PH-0009,heliport,Chevron Terminal Heliport,13.78246,121.022376,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,"Danglayan, Chevron",0,2020-12-15T15:51:21+00:00
+325554,PH-0010,heliport,Cochem Heliport (Danglayan),13.78058,121.01412,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,"Cochem, Danglayan",0,2020-12-15T15:54:50+00:00
+325555,PH-0011,heliport,Santa Rita Power Plant Heliport,13.767591,121.033632,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,Santa Rita,0,2020-12-15T16:01:30+00:00
+325564,PH-0012,heliport,Shell Malampaya Natural Gas Receiving Facility (Tabangao) Heliport,13.7177,121.060629,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,Tabangao,0,2020-12-15T15:59:19+00:00
+325565,PH-0013,heliport,JG Summit Olefins Corporation (Pinamucan) Helipad,13.677734,121.056255,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,"Pinamucan, JG Summit Olefins Corp",0,2020-12-15T15:57:06+00:00
+325566,PH-0014,heliport,Himmel Industries Tank Farm Heliport,13.687759,121.050983,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,"Pinamucan, Himmel Industries",0,2020-12-15T15:58:26+00:00
+325574,PH-0015,heliport,KEPCO Ilijan Power Plant Heliport,13.62061,121.076908,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,Ilijan,0,2020-12-15T15:55:48+00:00
+337757,PH-0220,heliport,SM City Batangas Heliport,13.75616,121.06816,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Batangas,0,,,,,,,0,2020-12-15T15:29:39+00:00
+504884,PH-0568,closed,Taratak Airfield,8.52386,117.39737,52,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Bataraza,0,,,,,,,0,2022-11-15T20:11:39+00:00
+325757,PH-0025,heliport,Bauang Power Plant Heliport,16.489863,120.32767,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Bauang,0,,,,,,"Bauang, 1590 Energy",0,2017-12-09T00:43:22+00:00
+325758,PH-0026,heliport,Bauang Power Plant Helipad,16.490059,120.326997,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Bauang,0,,,,,,"Bauang, 1590 Energy",0,2017-12-09T00:46:51+00:00
+504829,PH-0530,heliport,Biliran Heliport,11.46335,124.47474,3,AS,Philippines,PH,Biliran Province,PH-BIL,BIL,Biliran,0,,,,,,,0,2022-11-15T16:56:31+00:00
+349560,PH-0441,closed,PICOP Airport,8.195227,126.359843,,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Bislig,0,,,,,,,0,2022-11-15T12:08:49+00:00
+504814,PH-0515,closed,Brooke's Point Airstrip,8.80757,117.84951,36,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Brooke's Point,0,,,,,,,0,2022-11-14T11:13:45+00:00
+337347,PH-0190,closed,Buenavista Airfield,8.94222,125.39722,53,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Buenavista,0,,,,,,RPWV,0,2021-11-08T18:08:13+00:00
+538646,PH-0604,closed,Bayug Airfield,10.9804,124.90742,149,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Burauen,0,,,,,,,0,2024-07-23T04:47:22+00:00
+538647,PH-0605,closed,San Pablo Airfield,10.98348,124.92507,125,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Burauen,0,,,,,,,0,2024-07-23T04:48:24+00:00
+538648,PH-0606,closed,Buri Airfield,10.99169,124.90239,177,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Burauen,0,,,,,,,0,2024-07-23T04:49:20+00:00
+430581,PH-0494,seaplane_base,Busuanga Bay Lodge Seaplane Terminal,12.0231,119.97753,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Busuanga,0,,,,,,,0,2022-10-19T16:07:59+00:00
+430582,PH-0495,seaplane_base,Huma Island Resort Seaplane Terminal,12.05337,119.90455,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Busuanga,0,,,,,,,0,2022-10-19T16:09:29+00:00
+349554,PH-0435,closed,Tungao Airport,8.77305,125.54638,413,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Butuan,0,,,,,,,0,2021-11-08T18:06:17+00:00
+325759,PH-0027,heliport,Wenceslao Heliport,16.455614,120.332915,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Caba,0,,,,,,Wenceslao,0,2020-12-16T12:58:05+00:00
+326024,PH-0110,closed,Cabanatuan Airstrip (Camp Tinio),15.486231,121.042396,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Cabanatuan,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Cabanatuan, Camp Tinio",0,2018-01-03T13:36:46+00:00
+337808,PH-0233,heliport,SM City Cabanatuan Heliport,15.46759,120.95495,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Cabanatuan,0,,,,,,,0,2020-12-16T11:27:51+00:00
+347675,PH-0415,closed,Lorenville Heliport,15.47625,120.97829,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Cabanatuan,0,,,,,,,0,2021-09-16T12:22:13+00:00
+508744,PH-0573,heliport,Cabcaben Heliport,14.44453,120.58574,15,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Cabcaben,0,,,,,,,0,2023-05-18T06:05:40+00:00
+337802,PH-0227,heliport,Fastech Helipad,14.23451,121.09219,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Cabuyao,0,,,,,,,0,2020-12-16T09:51:45+00:00
+348660,PH-0426,seaplane_base,Lakawon Resort Seaplane Base,11.03811,123.2026,,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Cadiz,0,,,,,,,0,2021-10-12T11:57:14+00:00
+538869,PH-0608,closed,Carolina Airport,10.96075,123.17653,59,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Cadiz,0,,,,,,,0,2024-07-24T11:24:00+00:00
+355929,PH-0486,closed,ABCI Heliport,8.42827,124.62498,354,AS,Philippines,PH,Misamis Oriental Province,PH-MSR,MSR,Cagayan de Oro,0,,,,,,,0,2024-06-26T16:37:52+00:00
+349555,PH-0436,closed,Aras-Asan Airstrip,8.90661,126.299658,16,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Cagwait,0,,,,,,,0,2024-06-29T07:57:10+00:00
+504761,PH-0512,heliport,Santa Lucia Mall Heliport,14.61837,121.10062,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Cainta,0,,,,,,,0,2022-11-10T12:45:18+00:00
+504762,PH-0513,heliport,Santa Lucia East Grand Mall Heliport,14.6194,121.10125,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Cainta,0,,,,,,,0,2022-11-10T12:48:00+00:00
+339312,PH-0304,heliport,Sem-Calaca Helipad,13.92731,120.78719,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Calaca,0,,,,,,,0,2021-01-12T12:36:11+00:00
+326025,PH-0111,closed,Canlubang Airstrip,14.22367,121.09927,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Calamba,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Canlubang, Calamba Airfield",0,2021-03-25T14:29:42+00:00
+337801,PH-0226,heliport,SM City Calamba Heliport,14.20305,121.15567,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Calamba,0,,,,,,,0,2020-12-16T09:49:17+00:00
+504823,PH-0524,heliport,Camp Lim Heliport,14.21393,121.12042,167,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Calamba,0,,,,,,,0,2022-11-14T12:45:14+00:00
+325921,PH-0067,closed,Lago de Oro Wakepark Hotel Helipad,13.91657,120.622158,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Calatagan,0,,,,,,"Lago de Oro Wakepark Hotel, Balibago",0,2024-06-15T21:41:50+00:00
+325997,PH-0094,heliport,Calatagan (Hacienda Bigaa) Heliport,13.848569,120.635766,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Calatagan,0,,,,,,"Calatagan, Hacienda Zobel",0,2024-06-15T21:49:37+00:00
+337847,PH-0254,heliport,Coral Shores Heliport,13.78265,120.65162,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Calatagan,0,,,,,,,0,2020-12-16T16:56:10+00:00
+339287,PH-0281,heliport,SM Center Sangandaan Heliport,14.65845,120.97225,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Caloocan,0,,,,,,,0,2021-01-12T11:40:29+00:00
+341182,PH-0321,closed,Grace Park / Manila North Airfield,14.65135,120.99138,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Caloocan,0,,,,,,,0,2021-02-17T18:17:51+00:00
+325985,PH-0084,closed,Acoje Airport,15.689508,120.054624,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Candelaria,0,,,,,,"Acoje Mine, Candalaria",0,2024-06-26T17:31:07+00:00
+336814,PH-0180,heliport,Potipot Island Helipad,15.678205,119.92105,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Candelaria,0,,,,,,,0,2020-10-15T11:06:01+00:00
+344152,PH-0395,heliport,Camp O'Donnell Officer Candidate School Heliport,15.36891,120.50915,374,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Capas,0,,,,,,,0,2021-05-11T02:28:35+00:00
+344153,PH-0396,heliport,Camp O'Donnell Armor School Heliport,15.37752,120.50944,377,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Capas,0,,,,,,,0,2021-05-11T02:30:01+00:00
+351885,PH-0472,heliport,Tugawe Cove Resort Heliport,13.71804,123.97312,108,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Caramoan,0,,,,,,,0,2022-01-24T15:30:58+00:00
+336821,PH-0187,closed,Carranglan Airstrip,15.980973,121.040325,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Carranglan,0,,,,,,,0,2020-11-12T15:01:19+00:00
+337346,PH-0189,closed,Catanauan Airstrip,13.58833,122.27916,,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Catanauan,0,,,,,,,0,2020-11-18T09:44:28+00:00
+504822,PH-0523,heliport,Camp Lukban Heliport,11.78929,124.8683,34,AS,Philippines,PH,Samar Province,PH-WSA,WSA,Catbalogan,0,,,,,,,0,2022-11-14T12:36:22+00:00
+325946,PH-0072,closed,Camalaniugan Airport,18.301036,121.664958,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Catotoran,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Camalaniugan, Catotoran",0,2018-01-03T14:00:22+00:00
+325906,PH-0061,heliport,Fort Felipe Naval Logistics Center Heliport,14.483864,120.917295,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite,0,,,,,,"Fort Felipe, Cavite",0,2022-09-19T13:46:03+00:00
+341535,PH-0327,heliport,Cavite Naval Hospital Heliport,14.483498,120.913526,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite,0,,,,,,,0,2022-09-19T13:46:15+00:00
+341536,PH-0328,heliport,Maritime Safety Services Command Heliport,14.495423,120.912314,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite,0,,,,,,,0,2022-09-19T13:52:00+00:00
+337850,PH-0257,heliport,Caballo Island Naval Heliport,14.36905,120.62231,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite (Caballo Island),0,,,,,,,0,2020-12-16T17:05:22+00:00
+325979,PH-0081,heliport,Corregidor South Dock Heliport,14.384889,120.58748,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Cavite (Corregidor),0,,,,,https://en.wikipedia.org/wiki/Corregidor,Corregidor,0,2020-12-16T17:01:36+00:00
+430070,PH-0491,closed,Air Juan Cebu City South Road Properties Seaplane Terminal,10.26509,123.87812,,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Cebu City,0,,,,,,,0,2024-06-26T14:57:21+00:00
+504727,PH-0501,closed,Lahug Airfield,10.32836,123.9069,,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Cebu City,0,,,,,,,0,2022-11-08T01:23:03+00:00
+514805,PH-0585,heliport,Voice of America Heliport,15.37914,120.62647,177,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Concepcion,0,,,,,,,0,2023-11-12T19:00:54+00:00
+430598,PH-0500,seaplane_base,Two Seasons Resort Seaplane Terminal,11.77716,120.13465,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Coron,0,,,,,,,0,2022-10-20T13:31:07+00:00
+325980,PH-0082,heliport,Corregidor Parade Ground Heliport,14.38051,120.574514,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Corregidor Island,0,,,,,https://en.wikipedia.org/wiki/Corregidor,Corregidor,0,2017-12-31T01:35:18+00:00
+337806,PH-0231,closed,Cuyapo Airstrip,15.81936,120.68967,,AS,Philippines,PH,Nueva Ecija Province,PH-NUE,NUE,Cuyapo,0,,,,,,,0,2020-12-16T11:23:14+00:00
+339274,PH-0271,heliport,SM City Dasmariñas Helipad,14.30099,120.95786,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Dasmariñas,0,,,,,,,0,2021-01-12T11:15:50+00:00
+343727,PH-0362,heliport,Orchard Helipad,14.35451,120.95928,203,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Dasmariñas,0,,,,,,,0,2021-04-29T16:59:15+00:00
+326095,PH-0151,heliport,Camp Panacan Heliport,7.153643,125.661648,,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Davao,0,,,,,,"Camp Panacan, Davao",0,2022-11-14T11:58:18+00:00
+348390,PH-0421,closed,Lapanday Foods Mandug Airport,7.15427,125.58166,66,AS,Philippines,PH,Davao del Sur Province,PH-DAS,DAS,Davao,0,,,,,,,0,2022-11-15T13:25:44+00:00
+504833,PH-0534,heliport,Naval Station Felix Apolinario Heliport,7.15043,125.66206,3,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Davao,0,,,,,,,0,2022-11-14T14:13:47+00:00
+349558,PH-0439,closed,Diatagon Airport,8.66363,126.13471,13,AS,Philippines,PH,Surigao del Sur Province,PH-SUR,SUR,Diatagon,0,,,,,,,0,2021-11-08T18:17:08+00:00
+351510,PH-0453,closed,Maraymaray Airport,7.71067,124.95113,,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Don Carlos,0,,,,,,,0,2022-01-15T12:54:09+00:00
+351511,PH-0454,closed,Bukidnon Domestic Airport (under construction),7.70649,124.94924,,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Don Carlos,0,,,,,,,0,2022-01-15T12:55:32+00:00
+538649,PH-0607,closed,Dulag Airfield,10.95417,125.01019,36,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Dulag,0,,,,,,,0,2024-07-23T04:50:55+00:00
+326026,PH-0112,closed,Echague Airstrip,16.701018,121.650809,,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Echague,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,Echague,0,2018-01-03T14:47:00+00:00
+504865,PH-0549,heliport,Plamango Heliport,6.68242,124.3679,1293,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Esperanza,0,,,,,,,0,2022-11-15T13:20:48+00:00
+430597,PH-0499,closed,Ferrol (Odiongan) Airstrip,12.34482,121.93992,98,AS,Philippines,PH,Romblon Province,PH-ROM,ROM,Ferrol,0,,,,,,,0,2022-10-20T13:29:54+00:00
+325974,PH-0078,heliport,Lieutenant Cesar Base Air Base Heliport,14.981586,120.49371,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Floridablanca,0,,,,,https://en.wikipedia.org/wiki/Basa_Air_Base,Lieutenant Cesar Basa Air Base,0,2020-10-21T13:44:02+00:00
+504821,PH-0522,heliport,Camp Dela Cruz Heliport,17.072498,121.86519,230,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Gamu,0,,,,,,,0,2022-11-14T12:27:18+00:00
+349553,PH-0434,closed,Lagao Airport,6.15473,125.16027,308,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,General Santos,0,,,,,,,0,2021-11-08T18:03:55+00:00
+535035,PH-0594,closed,Gingoog Airfield,8.8207,125.10667,,AS,Philippines,PH,Misamis Oriental Province,PH-MSR,MSR,Gingoog,0,,,,,,Anakan Airfield,0,2024-06-26T17:24:09+00:00
+325951,PH-0076,closed,Divilacan Airstrip,17.332368,122.299504,26,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Ilagan,0,,,,,,Divilacan,0,2020-11-17T19:34:42+00:00
+353720,PH-0480,heliport,Isabela Provincial Capitol Heliport,17.10351,121.86579,218,AS,Philippines,PH,Isabela Province,PH-ISA,ISA,Ilagan,0,,,,,,,0,2022-03-24T20:31:26+00:00
+339288,PH-0282,heliport,SM City Iloilo Heliport,10.71545,122.55074,,AS,Philippines,PH,Iloilo Province,PH-ILI,ILI,Iloilo,0,,,,,,,0,2021-01-12T11:51:49+00:00
+339289,PH-0283,closed,Iloilo/Mandurriao Airport,10.71271,122.54524,,AS,Philippines,PH,Iloilo Province,PH-ILI,ILI,Iloilo,0,,,,,,,0,2021-01-12T11:52:51+00:00
+351509,PH-0452,heliport,Sultan Kudarat Provincial Capitol Heliport,6.64504,124.60924,203,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Isulan,0,,,,,,,0,2022-01-15T12:53:17+00:00
+504874,PH-0558,closed,Kenram Airport,6.66047,124.61174,197,AS,Philippines,PH,Sultan Kudarat Province,PH-SUK,SUK,Isulan,0,,,,,,,0,2022-11-15T15:13:33+00:00
+504820,PH-0521,heliport,Camp Peralta Heliport,11.39103,122.43972,531,AS,Philippines,PH,Capiz Province,PH-CAP,CAP,Jamindan,0,,,,,,,0,2022-11-14T12:04:33+00:00
+516444,PH-0588,closed,Kabankalan City Domestic Airport (under construction),10.0072,122.85159,194,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Kabankalan,0,,,,,,,0,2023-12-02T12:41:34+00:00
+354407,PH-0481,heliport,Lawak Island (Nanshan Island) Helipad,10.733077,115.802464,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Kalayaan (Lawak Island / Nanshan Island),0,,,,,https://en.wikipedia.org/wiki/en:Nanshan%20Island?uselang=en,Nanshan Island,0,2022-11-08T04:19:09+00:00
+504739,PH-0511,heliport,Maya-maya (Viper North Shoal) Helipad,8.35832,115.23804,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Kalayaan (Maya-maya / Viper North Shoal),0,,,,,,,0,2022-11-08T04:37:07+00:00
+504736,PH-0510,heliport,Parola Island (Northeast Cay) Helipad,11.45324,114.35567,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Kalayaan (Parola Island / Northeast Cay),0,,,,,,,0,2022-11-08T04:09:06+00:00
+538644,PH-0603,closed,Rizal (PNOC-EDC) Airport,11.16396,124.60028,541,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Kananga,0,,,,,,,0,2024-07-23T04:45:58+00:00
+356047,PH-0487,heliport,Didipio Heliport,16.321,121.44424,2402,AS,Philippines,PH,Nueva Vizcaya Province,PH-NUV,NUV,Kasibu,0,,,,,,,0,2022-08-08T00:52:46+00:00
+341538,PH-0329,heliport,Island Cove Heliport,14.46306,120.92336,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Kawit,0,,,,,,,0,2021-03-03T09:03:31+00:00
+343907,PH-0394,closed,Kawit Airfield,14.41484,120.90789,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Kawit,0,,,,,,,0,2021-05-03T21:58:29+00:00
+504871,PH-0555,heliport,Bascon Heliport,6.46383,124.87102,276,AS,Philippines,PH,South Cotabato Province,PH-SCO,SCO,Koronadal,0,,,,,,,0,2022-11-15T14:58:22+00:00
+337351,PH-0194,closed,Laminga Airstrip,8.28597,125.7504,95,AS,Philippines,PH,Agusan del Sur Province,PH-AGS,AGS,La Paz,0,,,,,,,0,2021-10-05T23:21:22+00:00
+326068,PH-0149,heliport,Government Arsenal Heliport,14.507939,120.586678,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Lamao,0,,,,,https://en.wikipedia.org/wiki/Government_Arsenal,"Government Arsenal, Lamao, Limay",0,2018-01-05T01:09:09+00:00
+353614,PH-0479,heliport,Shangri-La Mactan Island Resort Heliport,10.305836,124.020343,26,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Lapu-Lapu City,0,,,,,,,0,2022-03-18T12:30:54+00:00
+504828,PH-0529,heliport,Naval Base Rafael Ramos Heliport,10.29672,123.93899,7,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Lapu-Lapu City,0,,,,,,,0,2022-11-14T13:36:45+00:00
+339276,PH-0273,heliport,Gapuzan Trucking Inc Helipad,14.44834,120.97913,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Las Piñas,0,,,,,,,0,2021-01-12T11:23:45+00:00
+341369,PH-0324,heliport,SM Southmall Helipad,14.431635,121.011659,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Las Piñas,0,,,,,,,0,2021-02-26T10:46:34+00:00
+325624,PH-0017,heliport,Naval Station Julhasan Arasain Heliport,13.163261,123.755171,,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi,0,,,,,,Rawis,0,2022-11-15T16:52:42+00:00
+339290,PH-0284,heliport,SM City Legazpi Heliport,13.14401,123.74542,,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi,0,,,,,,,0,2021-01-12T11:55:17+00:00
+351887,PH-0474,closed,Mayon Old Heliport,13.22505,123.71365,1463,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi,0,,,,,,,0,2022-01-24T15:35:05+00:00
+351888,PH-0475,heliport,Mayon Heliport,13.20405,123.71107,873,AS,Philippines,PH,Albay Province,PH-ALB,ALB,Legazpi,0,,,,,,,0,2022-01-24T15:35:56+00:00
+339307,PH-0299,heliport,SM Center Lemery Heliport,13.88736,120.91208,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lemery,0,,,,,,,0,2021-01-12T12:25:41+00:00
+325914,PH-0066,closed,Talim Point Airstrip,13.977746,120.603774,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lian,0,,,,,,"Talim Point, Luyahan",0,2020-12-15T15:44:39+00:00
+337758,PH-0221,closed,Puting Kahoy Airstrip,13.9819,120.64512,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lian,0,,,,,,,0,2020-12-15T15:47:50+00:00
+326138,PH-0152,heliport,Petron Bataan Refinery Heliport,14.530195,120.59259,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Limay,0,,,,,,"Petron Bataan, Limay",0,2023-05-18T11:47:32+00:00
+345014,PH-0407,closed,Limay (Bataan) Airfield,14.52591,120.5997,121,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Limay,0,,,,,,,0,2021-05-28T07:34:33+00:00
+337760,PH-0223,heliport,SM City Lipa Heliport,13.95503,121.16209,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lipa,0,,,,,,,0,2020-12-15T16:05:07+00:00
+339313,PH-0305,heliport,Camella Lipa Helipad,13.95959,121.15171,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Lipa,0,,,,,,,0,2021-01-12T12:38:48+00:00
+337762,PH-0225,heliport,DOST-PCAARRD Heliport,14.17417,121.22434,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Los Baños,0,,,,,,,0,2020-12-15T16:17:46+00:00
+337804,PH-0229,heliport,SM City Lucena Heliport,13.94041,121.62575,,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Lucena,0,,,,,,,0,2020-12-16T11:18:03+00:00
+504897,PH-0570,heliport,Camp Nakar Heliport,13.95408,121.60985,118,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Lucena,0,,,,,,,0,2022-11-16T13:41:03+00:00
+337823,PH-0246,closed,Luna Airfield,16.86567,120.38389,4,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Luna,0,,,,,,,0,2020-12-16T12:59:07+00:00
+325972,PH-0077,heliport,Clark International Airport South Ramp Heliport,15.172336,120.545547,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,http://crk.clarkairport.com/,https://en.wikipedia.org/wiki/Clark_International_Airport,"Clark International Airport, South Ramp",0,2020-10-15T10:30:38+00:00
+326027,PH-0113,closed,Mabalacat East Airfield (Kamikaze East),15.240931,120.575434,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Mabalacat East, Kamikaze East",0,2018-01-03T15:25:46+00:00
+326028,PH-0114,closed,Mabalacat West Airfield (Kamikaze West),15.217266,120.549277,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Mabalacat West, Kamikaze West",0,2020-10-15T10:27:59+00:00
+430072,PH-0493,balloonport,Clark Balloonport,15.17718,120.57656,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,Mabalacat,0,,,,,,,0,2022-09-22T20:08:44+00:00
+325925,PH-0068,heliport,Purefoods Flour Mills Pulong Balibaguhan Heliport,13.743705,120.945976,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Mabini,0,,,,,,"Purefoods Flour Mills, Pulong Balibaguhan",0,2020-12-15T16:00:33+00:00
+337348,PH-0191,closed,Magallanes Airstrip,9.04416,125.52527,20,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Magallanes,0,,,,,,Caloc-an,0,2023-12-24T05:42:24+00:00
+326033,PH-0117,heliport,Ayala Tower One /  Philippine Exchange Plaza Heliport,14.55664,121.022483,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Makati, Tower One, Exchange Plaza",0,2021-01-12T12:53:16+00:00
+326034,PH-0118,heliport,Philamlife IT Tower Heliport,14.557577,121.021893,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Philamlife Tower, Makati",0,2021-01-12T12:50:09+00:00
+326035,PH-0119,heliport,Enterprise Center Heliport,14.556181,121.021222,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Enterprise Center, Makati",0,2021-01-12T12:52:23+00:00
+326036,PH-0120,heliport,BDO Equitable Bank Tower Heliport,14.558072,121.023867,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"BDO Equitable Bank Tower, Makati",0,2021-01-12T11:18:30+00:00
+326037,PH-0121,heliport,BPI Computer Systems Corporation Heliport,14.557999,121.023429,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"BPI Computer Systems Corporation, Makati",0,2021-01-12T11:21:18+00:00
+326038,PH-0122,heliport,Citibank Tower Heliport,14.558932,121.025219,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Citibank Tower, Makati",0,2021-01-12T14:04:06+00:00
+326039,PH-0123,heliport,Gercon Plaza Heliport,14.559525,121.026437,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Gercon Plaza, Makati",0,2021-01-12T11:21:27+00:00
+326040,PH-0124,heliport,Tiffany Place Heliport,14.55995,121.025176,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Tiffany Place, Makati",0,2021-01-12T13:26:54+00:00
+326041,PH-0125,heliport,Eurovilla III Heliport,14.559841,121.024752,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Eurovilla III, Makati",0,2021-01-12T13:26:28+00:00
+326042,PH-0126,heliport,Four Seasons Heliport,14.560433,121.023097,639,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Four Season, Makati",0,2021-04-01T14:44:39+00:00
+326044,PH-0127,heliport,West Gate Plaza Heliport,14.561191,121.023148,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"West Gate Plaza, Makati",0,2021-01-12T14:00:30+00:00
+326045,PH-0128,heliport,Parklane Condominiums Heliport,14.561279,121.023572,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Parklane Condominiums, Makati",0,2021-01-12T13:57:51+00:00
+326046,PH-0129,heliport,Petron Mega Plaza Heliport,14.561658,121.025691,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Church of Jesus Christ of Latter Day Saints, Makati",0,2021-01-12T13:00:26+00:00
+326047,PH-0130,heliport,BPI Buendia Center Heliport,14.561497,121.026426,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"BPI Buendia Center, Makati",0,2021-01-12T13:20:51+00:00
+326048,PH-0131,heliport,Development Bank of the Philippines Heliport,14.560899,121.027962,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Deveopment Bank of the Philippines, Makati",0,2021-01-12T11:22:23+00:00
+326049,PH-0132,heliport,Pacific Star Building Heliport,14.561082,121.02685,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,Pacific Star. Makati,0,2021-01-12T13:21:35+00:00
+326050,PH-0133,heliport,PBCom Tower Heliport,14.558531,121.019352,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"PC Com, Makati",0,2020-10-21T13:28:19+00:00
+326051,PH-0134,heliport,Export Bank Plaza Heliport,14.559421,121.011615,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Export Bank Plaza, Makati",0,2021-01-12T12:45:51+00:00
+326052,PH-0135,heliport,Megaworld Heliport,14.560438,121.015193,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Megaworld, Makati",0,2022-11-15T09:57:10+00:00
+326054,PH-0136,heliport,Cocolife Building Heliport,14.559587,121.017526,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Cocolife, Makati",0,2021-01-12T12:47:08+00:00
+326055,PH-0137,heliport,Easton Place Heliport,14.559381,121.019807,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Easton Place, Makati",0,2020-10-21T13:29:08+00:00
+326056,PH-0138,heliport,Allied Bank Center Heliport,14.554888,121.023465,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,Allied Bank Center,0,2021-01-12T13:30:07+00:00
+326057,PH-0139,heliport,PLDT Makati Office Heliport,14.554593,121.022649,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"PLDT, Makati",0,2021-01-12T11:22:39+00:00
+326058,PH-0140,heliport,Frabella I Condominiums Heliport,14.555952,121.01809,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Frabelle I, Makati",0,2021-01-12T13:29:01+00:00
+326059,PH-0141,heliport,Pacific Plaza Condominium Heliport,14.552307,121.028132,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Pacific Plaza, Makati",0,2021-01-12T13:48:33+00:00
+326060,PH-0142,heliport,Ritz Tower 2 Heliport,14.552972,121.027402,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,Ritz Tower. Makati,0,2021-01-12T13:49:12+00:00
+326061,PH-0143,heliport,Ritz Tower 1 Heliport,14.552671,121.027751,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Ritz Towers, Makati",0,2021-01-12T13:50:00+00:00
+326062,PH-0144,heliport,Discovery Primea Heliport,14.553579,121.026737,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Discovery Primea, Makati",0,2021-01-12T13:47:31+00:00
+326063,PH-0145,heliport,SM Makati Heliport,14.549129,121.027349,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"SM Makati, Makati",0,2021-01-12T11:23:00+00:00
+334883,PH-0170,heliport,Rizal Tower Helipad,14.564376,121.035087,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T11:18:41+00:00
+334884,PH-0171,heliport,Makati City Hall Helipad,14.570485,121.02724,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T11:19:13+00:00
+335115,PH-0172,heliport,Chatham House Helipad,14.559565,121.019472,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,"Chatham House, Makati",0,2020-10-21T13:30:04+00:00
+337651,PH-0209,closed,Nielson Field,14.55677,121.02116,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2020-12-13T05:25:28+00:00
+339314,PH-0306,heliport,Metrobank Plaza Heliport,14.560184,121.028861,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:24:28+00:00
+339315,PH-0307,heliport,The Peninsula Heliport,14.555495,121.025128,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:51:10+00:00
+339316,PH-0308,heliport,One Roxas Triangle Tower Heliport,14.559498,121.028867,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:52:48+00:00
+339317,PH-0309,heliport,Two Roxas Triangle Tower Heliport,14.559893,121.028084,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:53:19+00:00
+339318,PH-0310,heliport,Trafalgar Plaza Heliport,14.560812,121.026308,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:54:45+00:00
+339319,PH-0311,heliport,Salcedo Park Twin Towers North Heliport,14.561829,121.024291,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:56:27+00:00
+339320,PH-0312,heliport,Salcedo Park Twin Towers South Heliport,14.56159,121.02449,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:56:55+00:00
+339321,PH-0313,heliport,Classica Tower Heliport,14.561269,121.023808,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:58:45+00:00
+339322,PH-0314,heliport,Grand Soho Makati Heliport,14.561679,121.023154,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T13:59:35+00:00
+339323,PH-0315,heliport,ACT Tower Heliport,14.561731,121.02266,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T14:01:20+00:00
+339324,PH-0316,heliport,World Centre Heliport,14.561518,121.02148,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-01-12T14:02:33+00:00
+342564,PH-0359,heliport,Alpha Saucedo Condominium Helipad,14.5611,121.02267,518,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-01T14:24:46+00:00
+343240,PH-0360,heliport,RCBC Plaza Yuchengco Tower Heliport,14.56085,121.01608,735,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-19T15:54:33+00:00
+343747,PH-0381,heliport,Solar Century Tower Helipad,14.56096,121.0199,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-29T17:19:16+00:00
+343748,PH-0382,heliport,Splendido Gardens Helipad,14.56076,121.01939,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-29T17:20:09+00:00
+343749,PH-0383,heliport,Antel Platinum Towers Helipad,14.55915,121.02405,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-29T17:21:18+00:00
+343750,PH-0384,heliport,Forbes Tower West Helipad,14.55968,121.02547,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-29T17:22:24+00:00
+343751,PH-0385,heliport,Liberty Center Helipad,14.56059,121.02559,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-04-29T17:23:20+00:00
+344183,PH-0397,heliport,Vernida IV Heliport,14.55915,121.02199,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-11T17:37:06+00:00
+344465,PH-0398,heliport,BPI-Philam Life Makati Helipad,14.55976,121.0173,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,Ayala Life FGU Center Helipad,0,2021-05-13T18:06:24+00:00
+344466,PH-0399,heliport,GT Tower Helipad,14.56006,121.01691,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-13T18:07:11+00:00
+344467,PH-0400,heliport,LKG Tower Helipad,14.55933,121.01793,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-13T18:08:05+00:00
+344468,PH-0401,heliport,Cityland Herrera Tower Helipad,14.55899,121.01964,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-13T18:08:55+00:00
+344469,PH-0402,heliport,Robinsons Summit Center Helipad,14.55763,121.02051,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-13T18:10:00+00:00
+344470,PH-0403,heliport,Makati Medical Center Heliport,14.55899,121.01519,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-13T18:10:59+00:00
+344967,PH-0404,heliport,Rufino Pacific Tower Helipad,14.55811,121.01819,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-27T16:49:29+00:00
+344968,PH-0405,heliport,Lepanto Building Helipad,14.5581,121.02409,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-27T16:50:14+00:00
+344970,PH-0406,heliport,L V Locsin Building Helipad,14.55448,121.02384,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2021-05-27T16:53:01+00:00
+504851,PH-0538,heliport,TechZone Philippines Building Helipad,14.5591,121.00926,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2022-11-15T09:53:08+00:00
+504852,PH-0539,heliport,Burgundy Corporate Tower Helipad,14.56012,121.01297,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2022-11-15T09:56:25+00:00
+553623,PH-0611,heliport,Ayala Tower 2 Helipad,14.557678,121.025513,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2024-10-22T12:01:53+00:00
+553624,PH-0612,heliport,Ricogen Building Helipad,14.55288,121.01696,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Makati,0,,,,,,,0,2024-10-22T12:03:55+00:00
+504868,PH-0552,closed,Matling Industrial and Commercial Corporation Airstrip,7.63444,124.09113,505,AS,Philippines,PH,Davao del Norte Province,PH-DAV,DAV,Malabang,0,,,,,,MICC,0,2022-11-15T14:05:52+00:00
+325892,PH-0055,heliport,Naval Station Jose Andrada Heliport,14.560458,120.985263,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Malate,0,,,,,,Naval Station Jose Andrada,0,2020-10-21T13:23:28+00:00
+337366,PH-0208,closed,Air Juan Boracay Seaplane Terminal,11.97444,121.91277,,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Malay,0,,,,,,,0,2024-06-26T14:58:10+00:00
+351881,PH-0468,heliport,Boracay Helicopter Adventures Heliport,11.9947,121.92152,101,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Malay,0,,,,,,,0,2022-01-24T15:23:58+00:00
+351882,PH-0469,heliport,GreenHeli Boracay Heliport,11.95887,121.93209,,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Malay,0,,,,,,,0,2022-01-24T15:25:30+00:00
+351883,PH-0470,heliport,GreenHeli Boracay Heliport,11.95887,121.93209,45,AS,Philippines,PH,Aklan Province,PH-AKL,AKL,Malay,0,,,,,,,0,2022-01-24T15:25:34+00:00
+504825,PH-0526,heliport,Camp Abat Heliport,16.0489,120.49207,141,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Manaoag,0,,,,,,,0,2022-11-14T12:57:26+00:00
+325866,PH-0036,heliport,SM Megamall (Building A) Heliport,14.586662,121.057089,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,SM Megamall,0,2020-12-13T05:36:00+00:00
+325875,PH-0038,heliport,BDO Corporate Center Heliport,14.585865,121.059189,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,BDO Corporate Center,0,2021-03-03T14:38:04+00:00
+325879,PH-0042,heliport,San Miguel Corporate Heliport,14.582849,121.059287,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,"Mandaluyong, San Miguel Corporation",0,2017-12-17T19:18:08+00:00
+325880,PH-0043,heliport,SM Megamall (Building B) Heliport,14.582523,121.057129,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,"Mandaluyong, SM Megamall",0,2020-12-13T05:39:54+00:00
+325881,PH-0044,heliport,TSD Communications Department Heliport,14.574916,121.055493,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,"Mandaluyong, TSD Communications",0,2017-12-17T20:16:01+00:00
+326064,PH-0146,heliport,Asian Development Bank Heliport,14.588634,121.058331,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,"Asian Development Bank, Makati",0,2020-12-13T05:37:08+00:00
+337655,PH-0213,closed,Mandaluyong East Airfield,14.58301,121.05606,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,,0,2020-12-13T05:33:52+00:00
+341582,PH-0333,heliport,San Miguel Property Centre Building Helipad,14.58173,121.05821,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Mandaluyong,0,,,,,,,0,2021-03-03T14:33:37+00:00
+326029,PH-0115,closed,Mangaldan Airfield,16.061583,120.397126,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Mangaldan,0,,,,,https://en.wikipedia.org/wiki/Mangaldan_Airfield,Mangaldan,0,2018-01-03T19:08:00+00:00
+325864,PH-0034,closed,Manila North Harbor Container Terminal Helipad,14.619012,120.958809,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,Manila North Harbor Container Terminal,0,2020-12-16T16:17:21+00:00
+325888,PH-0051,heliport,Philippine Coast Guard Manila Ready Force Base Helipad,14.582475,120.96801,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2022-11-14T14:28:32+00:00
+325889,PH-0052,heliport,Manila South Harbor Pier 13 Heliport,14.582711,120.967669,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,"Port of Manila, South Harbor",0,2022-11-14T14:34:37+00:00
+325890,PH-0053,heliport,Manila Hotel Heliport,14.583489,120.973616,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,Manila Hotel,0,2022-11-14T14:26:39+00:00
+334813,PH-0167,heliport,World Trade Exchange Building Helipad,14.597341,120.974793,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-06-23T11:20:30+00:00
+334814,PH-0169,heliport,Federal Tower Helipad,14.596645,120.9743,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-06-23T11:23:25+00:00
+337652,PH-0210,closed,Dewey Boulevard Airstrip,14.5775,120.9786,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-12-13T05:28:38+00:00
+337842,PH-0249,heliport,SM City San Lazaro Heliport,14.61892,120.98656,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-12-16T16:13:57+00:00
+337843,PH-0250,heliport,Winford Manila Heliport,14.617638,120.987668,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-12-16T16:15:35+00:00
+338291,PH-0268,heliport,Malacañang Park Heliport,14.59365,120.99712,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2020-12-29T13:57:03+00:00
+341192,PH-0323,heliport,United States Embassy Heliport,14.57617,120.97736,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2021-02-17T20:32:36+00:00
+345371,PH-0412,heliport,San Fernando Tower Helipad,14.59891,120.97339,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2021-06-10T17:32:12+00:00
+345372,PH-0413,heliport,518 Fundidor Street Helipad,14.60105,120.97196,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2021-06-10T17:32:47+00:00
+351910,PH-0476,heliport,Chinese General Hospital Heliport,14.62562,120.98875,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2022-01-25T16:31:58+00:00
+504835,PH-0536,heliport,Sunview Palace Condominium Helipad,14.58038,120.97895,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2022-11-14T14:25:15+00:00
+504836,PH-0537,heliport,Cunanan Wharf Heliport,14.5825,120.97198,3,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila,0,,,,,,,0,2022-11-14T14:27:35+00:00
+342106,PH-0349,closed,New Manila International Airport (under construction),14.742719,120.871831,18,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Manila (Taliptip),0,,,,,https://en.wikipedia.org/wiki/New_Manila_International_Airport,Bulacan International Airport,0,2024-10-22T12:05:46+00:00
+325891,PH-0054,heliport,Port of Manila South Harbor Pier 17 Helipad,14.581421,120.97311,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Manila South Harbor,0,,,,,,Port of Manila South Harbor,0,2017-12-18T03:28:58+00:00
+353427,PH-0478,heliport,Dahilayan Heliport,8.21836,124.85042,3747,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Manolo Fortich,0,,,,,,,0,2024-06-26T16:39:41+00:00
+538543,PH-0600,heliport,National Power Corporation Maramag Heliport,7.70686,125.02583,722,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Maramag,0,,,,,,,0,2024-07-22T16:15:07+00:00
+538544,PH-0601,heliport,National Power Corporation Maramag Heliport,7.70686,125.02583,722,AS,Philippines,PH,Bukidnon Province,PH-BUK,BUK,Maramag,0,,,,,,,0,2024-07-22T16:15:12+00:00
+337708,PH-0217,closed,Marikina Airfield,14.62989,121.09805,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Marikina,0,,,,,,,0,2020-12-13T13:34:47+00:00
+339295,PH-0289,heliport,SM City Marikina Heliport,14.6269,121.08473,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Marikina,0,,,,,,,0,2021-01-12T12:00:26+00:00
+335149,PH-0175,heliport,Mariveles Power Plant Helipad,14.42238,120.53947,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Mariveles,0,,,,,,,0,2020-07-16T16:25:14+00:00
+336818,PH-0184,closed,Bataan Field,14.45046,120.57002,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Mariveles,0,,,,,,,0,2020-10-15T11:20:41+00:00
+337080,PH-0079,heliport,PNOC Industrial Park Helipad,14.49869,120.602889,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Mariveles,0,,,,,,,0,2020-11-03T10:33:19+00:00
+345015,PH-0408,closed,Cabcaben Airfield,14.45437,120.59218,36,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Mariveles,0,,,,,,,0,2021-05-28T07:36:39+00:00
+345016,PH-0409,closed,Mariveles Airfield,14.43502,120.47821,36,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Mariveles,0,,,,,,,0,2021-05-28T07:37:32+00:00
+326011,PH-0104,heliport,Poon Coto Heliport,15.562515,120.097468,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Masinloc,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines,"Poon Coto, Masinloc",0,2018-01-02T04:09:49+00:00
+348303,PH-0416,heliport,AES Masinloc Heliport,15.57493,119.92365,71,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Masinloc,0,,,,,,,0,2021-10-04T17:23:19+00:00
+351880,PH-0467,heliport,Masiu Heliport,7.81806,124.33271,2337,AS,Philippines,PH,Lanao del Sur Province,PH-LAS,LAS,Masiu,0,,,,,,,0,2022-01-24T15:21:35+00:00
+325552,PH-0008,heliport,Quezon Power Plant Heliport,14.226435,121.759152,,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Mauban,0,,,,,,"Quezon Power Plant, Mauban",0,2020-11-18T09:38:47+00:00
+337845,PH-0252,closed,Cagsiay Airstrip,14.2226,121.74419,,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Mauban,0,,,,,,,0,2020-12-16T16:52:02+00:00
+516555,PH-0591,closed,Medellin Airstrip,11.14193,123.96741,30,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Medellin,0,,,,,,,0,2023-12-04T12:51:17+00:00
+325809,PH-0032,heliport,Bataan Nuclear Power Plant Heliport,14.630793,120.315316,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Morong,0,,,,,,Bataan Nuclear Power Plant,0,2020-10-15T11:19:18+00:00
+336815,PH-0181,heliport,Anvaya Cove Heliport,14.71879,120.27186,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Morong,0,,,,,,,0,2020-10-15T11:12:26+00:00
+336817,PH-0183,closed,Long Beach Airstrip,14.69119,120.26668,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Morong,0,,,,,,,0,2020-10-15T11:17:56+00:00
+326032,PH-0116,closed,Naguilian Airfield,16.534863,120.396268,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Naguilian,0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,Naguilian,0,2018-01-04T00:18:21+00:00
+326139,PH-0153,heliport,Nasipit Heliport,8.976852,125.32937,,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Nasipit,0,,,,,,Nasipit,0,2020-11-18T09:57:19+00:00
+326140,PH-0154,closed,Nasipit Airfield,8.986384,125.337954,,AS,Philippines,PH,Agusan del Norte Province,PH-AGN,AGN,Nasipit,0,,,,,,Nasipit,0,2020-11-18T09:57:07+00:00
+325913,PH-0065,heliport,Punta Fuego Heliport,14.134019,120.59806,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Nasugbu,0,,,,,,"Balaytigue, Nusugbu",0,2023-05-18T12:15:16+00:00
+337759,PH-0222,closed,Nasugbu Airfield,14.080887,120.629411,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Nasugbu,0,,,,,,,0,2020-12-15T15:49:06+00:00
+339311,PH-0303,heliport,Hamilo Coast Helipad,14.18891,120.61506,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Nasugbu,0,,,,,,,0,2021-01-12T12:34:49+00:00
+337357,PH-0200,closed,Cogonon Airstrip,7.58916,126.11055,,AS,Philippines,PH,Davao de Oro Province,PH-COM,COM,New Bataan,0,,,,,,,0,2022-11-15T11:58:36+00:00
+345018,PH-0411,closed,Minuyan Airstrip,14.86775,121.07024,420,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Norzagaray,0,,,,,,,0,2021-05-28T07:40:16+00:00
+339298,PH-0291,heliport,SM City Olongapo Central Heliport,14.8357,120.28278,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Olongapo,0,,,,,,,0,2023-05-18T12:10:22+00:00
+337848,PH-0255,closed,Orani Airfield,14.78495,120.48194,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Orani,0,,,,,,,0,2020-12-16T16:58:35+00:00
+339309,PH-0301,heliport,SM Center Ormoc Heliport,11.0116,124.60801,,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Ormoc,0,,,,,,,0,2021-01-12T12:28:28+00:00
+325585,PH-0016,heliport,Bayview Accommodations Heliport,13.92418,121.704224,,AS,Philippines,PH,Quezon Province,PH-QUE,QUE,Pagbilao,0,,,,,,Bayview Accommodation; Bantigue,0,2020-12-16T11:19:01+00:00
+504827,PH-0528,heliport,Naval Station Juan Magluyan Heliport,5.06919,119.88565,3,AS,Philippines,PH,Tawi-Tawi Province,PH-TAW,TAW,Panglima Sugala,0,,,,,,,0,2022-11-14T13:32:26+00:00
+325900,PH-0059,heliport,Solaire Manila Resort & Casino Heliport 1,14.523574,120.980773,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,"Solaire Resort, Solaire Casino, Parañaque",0,2023-11-12T10:52:55+00:00
+325901,PH-0060,heliport,Solaire Manila Resort & Casino Heliport 2,14.522153,120.980911,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,"Solaire Manila Resort & Casino, Parañaque",0,2023-11-12T10:53:14+00:00
+326069,PH-0150,seaplane_base,Parañaque Seaplane Base,14.502193,120.989548,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,Parañaque,0,2020-10-21T13:05:41+00:00
+339280,PH-0275,heliport,SM City Bicutan Heliport,14.48567,121.04317,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2021-01-12T11:29:43+00:00
+339302,PH-0295,heliport,SM City Sucat Heliport,14.48348,120.99399,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2021-01-12T12:10:12+00:00
+504834,PH-0535,heliport,Okada Manila Rooftop Heliport,14.51534,120.98119,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T16:40:25+00:00
+504875,PH-0559,heliport,Washington Tower Helipad,14.511284,120.977824,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T16:45:38+00:00
+504876,PH-0560,heliport,Cleveland Tower Helipad,14.510671,120.977443,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T16:45:23+00:00
+504877,PH-0561,heliport,Burgundy McKinley Place Helipad,14.510411,120.977905,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T16:45:53+00:00
+504878,PH-0562,heliport,Okada Manila Boardwalk Heliport,14.513019,120.97747,10,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2023-11-12T10:51:04+00:00
+504880,PH-0564,heliport,City of Dreams Manila Helipad,14.524906,120.99234,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T16:44:43+00:00
+504885,PH-0569,heliport,Ri-Rance Helipad,14.52662,120.9917,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Parañaque,0,,,,,,,0,2022-11-15T20:15:17+00:00
+325893,PH-0056,heliport,Sofitel Philippine Plaza Hotel Heliport,14.552693,120.980409,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,Sofitel Philippine Plaza Hotel,0,2020-10-21T13:21:26+00:00
+325895,PH-0057,heliport,CCP Open Grounds Heliport,14.552598,120.983714,20,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,"CCP Open Field, Pasay",0,2022-01-25T16:29:42+00:00
+325896,PH-0058,heliport,Conrad Manila Hotel Heliport,14.531926,120.980394,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,"Conrad Manila Hotel, Pasay",0,2020-12-29T13:42:25+00:00
+325981,PH-0083,heliport,Manila Marriott Hotel Heliport,14.52032,121.019152,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,Manila Marriott Hotel,0,2020-12-29T13:44:06+00:00
+334477,PH-0165,closed,Air Juan Seaplane Base,14.556705,120.979401,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,1,,,,,,,0,2024-06-26T14:57:42+00:00
+338284,PH-0263,heliport,One E-Com Center Helipad,14.537586,120.981547,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2020-12-29T13:46:32+00:00
+338286,PH-0264,heliport,SM Mall of Asia North Wing Helipad,14.53674,120.981671,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2020-12-29T13:50:58+00:00
+338287,PH-0265,heliport,SM Mall of Asia South Wing Helipad,14.533598,120.98181,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2020-12-29T13:51:45+00:00
+338288,PH-0266,heliport,GSIS Complex Helipad,14.546694,120.984036,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2020-12-29T13:53:41+00:00
+338289,PH-0267,heliport,Philippine National Bank Financial Complex Heliport,14.548667,120.988382,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2020-12-29T13:55:15+00:00
+504879,PH-0563,heliport,Five E-Com Center Helipad,14.53931,120.98245,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasay,0,,,,,,,0,2022-11-15T16:43:20+00:00
+325865,PH-0035,heliport,Joy-Nostalg Heliport,14.587541,121.060526,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"Joy-Nostalg, San Antonio Rescue",0,2017-12-17T04:09:22+00:00
+325874,PH-0037,heliport,Malayan Plaza Heliport,14.586611,121.060012,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,Malaysian Plaza,0,2021-03-03T14:39:18+00:00
+325876,PH-0039,heliport,Discovery Suites Heliport,14.585852,121.060233,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,Discovery Suites,0,2021-03-03T14:37:26+00:00
+325877,PH-0040,heliport,Philippine Stock Exchange West Tower Heliport,14.582518,121.061614,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,Philippine Stock Exchange,0,2017-12-17T18:51:58+00:00
+325878,PH-0041,heliport,Philippine Stock Exchange East Tower Heliport,14.58251,121.062262,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,Philippine Stock Exchange,0,2017-12-17T19:00:43+00:00
+325882,PH-0045,heliport,Orient Square Heliport,14.58534,121.061291,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"Orient Square, Pasig",0,2021-03-03T14:36:41+00:00
+325883,PH-0046,heliport,Taipan Place Heliport,14.584999,121.062053,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"Taipan Place, Pasig",0,2021-03-03T14:36:05+00:00
+325884,PH-0047,heliport,iSquare Heliport,14.5856,121.06338,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"iSquare, Pasig",0,2021-03-03T14:35:39+00:00
+325885,PH-0048,heliport,Union Bank Plaza Heliport,14.587149,121.063516,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"Union Bank Plaza, Pasig",0,2021-03-03T14:39:43+00:00
+325886,PH-0049,heliport,MERALCO Ortigas Heliport,14.591288,121.07033,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,"MERALCO Ortigas, Pasig",0,2017-12-17T21:39:31+00:00
+325977,PH-0080,heliport,207th Tactical Helicopter Squadron Heliport,14.516384,121.028631,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,207th Tactical Helicopter Squadron,0,2021-01-12T10:51:14+00:00
+337654,PH-0212,heliport,Medical City Helipad,14.589721,121.069081,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2020-12-13T05:32:34+00:00
+339284,PH-0279,heliport,SM City East Ortigas Heliport,14.58763,121.10485,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-01-12T11:34:21+00:00
+341579,PH-0330,heliport,Belvedere Tower Helipad,14.57963,121.05879,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:29:13+00:00
+341580,PH-0331,heliport,Pacific Center Building Helipad,14.58125,121.06005,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:30:04+00:00
+341581,PH-0332,heliport,Octagon Center Helipad,14.58212,121.06034,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:30:47+00:00
+341583,PH-0334,heliport,Robinsons Equitable Tower Helipad,14.58965,121.05995,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:40:59+00:00
+341584,PH-0335,heliport,AIC Burgundy Empire Tower Helipad,14.58969,121.06098,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:42:37+00:00
+341586,PH-0337,closed,Parc Royale Building Helipad,14.58401,121.06191,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:46:40+00:00
+341587,PH-0338,heliport,Antel Global Business Center Helipad,14.58398,121.06289,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:48:26+00:00
+341588,PH-0339,heliport,Avant Garde Residences Helipad,14.58359,121.06325,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:49:31+00:00
+341589,PH-0340,heliport,Prestige Tower Helipad,14.586006,121.061937,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:52:22+00:00
+341590,PH-0341,heliport,Raffles Building Helipad,14.58625,121.062064,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:53:12+00:00
+341591,PH-0342,heliport,Holiday Inn Galleria Manila Helipad,14.59002,121.06019,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-03-03T14:54:48+00:00
+343866,PH-0393,closed,Pasig Airfield,14.58477,121.10098,39,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Pasig,0,,,,,,,0,2021-05-02T11:02:18+00:00
+337849,PH-0256,closed,Pilar Airfield,14.66134,120.54809,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Pilar,0,,,,,,,0,2020-12-16T16:59:19+00:00
+508757,PH-0574,heliport,Mount Samat Heliport,14.6065,120.50886,1759,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Pilar,0,,,,,,,0,2023-05-18T11:46:51+00:00
+504824,PH-0525,heliport,Camp Angeles Heliport,13.61704,123.30066,407,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Pili,0,,,,,,,0,2022-11-14T12:51:01+00:00
+349556,PH-0437,closed,Bad-As Airport,9.63305,125.55638,344,AS,Philippines,PH,Surigao del Norte Province,PH-SUN,SUN,Placer,0,,,,,,,0,2021-11-08T18:13:12+00:00
+326146,PH-0158,heliport,Wallace Air Force Station Heliport,16.619129,120.282753,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,Poro Point (San Fernando),0,,,,,https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields,"Wallace Air Force Station, Poro Point",0,2018-01-15T05:55:39+00:00
+504734,PH-0508,heliport,Sabang Sheridan Beach Resort Heliport,10.19413,118.89578,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Puerto Princesa,0,,,,,,,0,2022-11-08T03:56:29+00:00
+504830,PH-0531,heliport,Naval Station Carlito Cunanan Heliport,10.02177,118.79342,37,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Puerto Princesa,0,,,,,,,0,2022-11-14T13:58:21+00:00
+339299,PH-0292,heliport,SM Center Pulilan Heliport,14.89958,120.86933,,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,Pulilan,0,,,,,,,0,2021-01-12T12:05:23+00:00
+326145,PH-0157,closed,San Carlos Community Airport [under construction],10.508784,123.434358,10,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Punao,0,,,,,,"San Carlos, Punao",0,2021-10-12T12:09:15+00:00
+325887,PH-0050,heliport,Eton Cyberpod Helipads,14.592181,121.060324,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,"Eton Cyberpod, Quezon City",0,2017-12-17T21:57:00+00:00
+326066,PH-0147,heliport,Ever Gotesco – Commonwealth Heliport,14.678164,121.085228,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,"Ever Gotesco – Commonwealth, Quezon City",0,2020-10-21T13:47:08+00:00
+337653,PH-0211,closed,Zablan Airfield,14.60182,121.06895,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2020-12-13T05:29:32+00:00
+337688,PH-0216,closed,Balara Airfield,14.66194,121.06533,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2020-12-13T13:02:00+00:00
+339285,PH-0280,heliport,SM City Fairview Heliport,14.7337,121.05984,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-01-12T11:35:00+00:00
+339297,PH-0290,heliport,SM City North EDSA Heliport,14.65691,121.03289,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-01-12T12:02:44+00:00
+339300,PH-0293,heliport,SM City Santa Mesa Heliport,14.603327,121.019265,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-10-14T22:26:46+00:00
+339301,PH-0294,heliport,SM City Novaliches Heliport,14.70875,121.03654,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-01-12T12:08:55+00:00
+340072,PH-0317,heliport,Camp Crame Heliport,14.60811,121.05508,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-01-25T12:47:56+00:00
+340073,PH-0318,heliport,Aurora Tower Helipad,14.62278,121.05357,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-01-25T12:48:56+00:00
+341585,PH-0336,heliport,Crowne Plaza Manila Galleria Helipad,14.59077,121.06096,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T14:55:16+00:00
+341592,PH-0343,heliport,Caswynn Building Helipad,14.63256,121.0439,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T14:56:16+00:00
+341593,PH-0344,heliport,GMA Network Tower Helipad,14.6334,121.04391,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T14:57:23+00:00
+341594,PH-0345,heliport,Eton Centris Heliport,14.64118,121.04029,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T15:13:21+00:00
+341595,PH-0346,heliport,Eton Heliport,14.64213,121.04137,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T15:14:23+00:00
+341596,PH-0347,heliport,National Office Building Helipad,14.64248,121.0432,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T15:15:18+00:00
+341597,PH-0348,heliport,DILG-NAPOLCOM Center Helipad,14.64463,121.03669,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-03-03T15:16:09+00:00
+343583,PH-0361,heliport,ABS-CBN Building Helipad,14.63962,121.03531,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-04-29T12:26:40+00:00
+343865,PH-0392,closed,Zablan Auxiliary Airfield,14.59795,121.08115,59,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-05-02T11:01:13+00:00
+349889,PH-0447,heliport,Veterans Memorial Medical Center Heliport,14.65752,121.0413,148,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2021-11-21T22:25:33+00:00
+514784,PH-0580,heliport,Portal Heliport,14.73177,121.07452,292,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2023-11-12T10:55:18+00:00
+514791,PH-0581,heliport,Victoriano Luna Medical Center Heliport,14.63521,121.05136,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2023-11-12T18:17:03+00:00
+514792,PH-0582,heliport,SSS Main Building Helipad,14.639701,121.047714,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2023-11-12T18:22:13+00:00
+514793,PH-0583,heliport,Araneta Center Helipad,14.620873,121.051308,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2023-11-12T18:23:49+00:00
+514794,PH-0584,heliport,Wil Tower Helipad,14.638218,121.037235,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2023-11-12T18:25:03+00:00
+559666,PH-0613,heliport,SM Araneta City Heliport,14.61858,121.05607,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,SM Cubao,0,2024-11-22T15:44:31+00:00
+559667,PH-0614,heliport,Camp Aguinaldo Heliport,14.609476,121.062922,190,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Quezon City,0,,,,,,,0,2024-11-22T15:46:45+00:00
+325678,PH-0019,heliport,Reserva Helipad,15.814874,121.54704,,AS,Philippines,PH,Aurora Province,PH-AUR,AUR,Reserva,0,,,,,,Reserva,0,2017-12-02T02:22:59+00:00
+535398,PH-0596,closed,Latud Airport,8.624722,117.279444,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rizal,0,,,,,,,0,2024-06-29T08:58:17+00:00
+535423,PH-0597,closed,Punta Baja Airfield,9.0614,117.65386,,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,Rizal,0,,,,,,,0,2024-06-29T12:36:17+00:00
+337805,PH-0230,heliport,SM City Rosales Heliport,15.87993,120.60296,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Rosales,0,,,,,,,0,2020-12-16T11:21:26+00:00
+325907,PH-0062,heliport,Petron Rosario Refinery Helipad,14.41274,120.856393,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Rosario,0,,,,,,Petron Rosario Refinery,0,2017-12-19T01:11:08+00:00
+334478,PH-0166,heliport,SM City Rosario Heliport,14.40933,120.85583,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Rosario,0,,,,,,,0,2020-12-16T17:07:50+00:00
+335148,PH-0174,closed,Sabang South Bay Domestic Airport,14.44186,120.582397,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Sabang,0,,,,,,,0,2020-10-15T11:20:02+00:00
+504857,PH-0543,seaplane_base,Sabang South Bay Seaplane Base,14.44103,120.58456,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Sabang,0,,,,,,,0,2022-11-15T10:15:13+00:00
+343754,PH-0388,heliport,Sagada Heliport,17.08053,120.90142,4915,AS,Philippines,PH,Mountain Province,PH-MOU,MOU,Sagada,0,,,,,,,0,2021-04-29T17:26:46+00:00
+346315,PH-0414,closed,Sagay Airfield,10.87527,123.41598,171,AS,Philippines,PH,Negros Occidental Province,PH-NEC,NEC,Sagay,0,,,,,,,0,2021-07-09T13:03:09+00:00
+335147,PH-0173,heliport,Bataan 2020 Helipad,14.768859,120.504089,,AS,Philippines,PH,Bataan Province,PH-BAN,BAN,Samal,0,,,,,,,0,2020-07-16T16:19:57+00:00
+325699,PH-0021,heliport,Naval Base Ernesto Ogbinar Heliport,16.60643,120.289836,,AS,Philippines,PH,La Union Province,PH-LUN,LUN,San Fernando,0,,,,,,"Poro Point, San Fernando",0,2022-11-14T13:38:18+00:00
+338321,PH-0269,heliport,SM City Pampanga Heliport,15.053802,120.697947,,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,San Fernando,0,,,,,,,0,2020-12-29T16:32:24+00:00
+508738,PH-0572,heliport,Honda Cars Pampanga Heliport,15.05015,120.66596,62,AS,Philippines,PH,Pampanga Province,PH-PAM,PAM,San Fernando,0,,,,,,,0,2023-05-18T05:45:45+00:00
+345017,PH-0410,closed,Akle Airfield,15.04659,121.07582,285,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,San Ildefonso,0,,,,,,,0,2021-05-28T07:39:03+00:00
+349562,PH-0443,closed,Elmore Airfield,12.43947,121.08588,85,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,San Jose,0,,,,,,,0,2021-11-08T18:23:34+00:00
+349563,PH-0444,closed,Hill Airfield,12.39112,121.05336,33,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,San Jose,0,,,,,,,0,2021-11-08T18:24:33+00:00
+349564,PH-0445,closed,Murtha Airfield,12.427,121.09905,13,AS,Philippines,PH,Occidental Mindoro Province,PH-MDC,MDC,San Jose,0,,,,,,,0,2021-11-08T18:25:29+00:00
+339291,PH-0285,heliport,SM City San Jose del Monte Heliport,14.7864,121.07561,,AS,Philippines,PH,Bulacan Province,PH-BUL,BUL,San Jose del Monte,0,,,,,,,0,2021-01-12T11:56:34+00:00
+337816,PH-0241,heliport,San Roque Dam Heliport,16.12728,120.68041,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,San Manuel,0,,,,,,,0,2020-12-16T11:51:54+00:00
+339303,PH-0296,heliport,SM City San Mateo Heliport,14.67935,121.1149,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,San Mateo,0,,,,,,,0,2021-01-12T12:12:07+00:00
+325799,PH-0031,heliport,Naval Station Leovigildo Gantioqui Heliport,14.960447,120.071002,,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,San Miguel,0,,,,,https://en.wikipedia.org/wiki/U.S._Naval_Communications_Station_San_Miguel,"San Miguel, Naval Station LeoVigildo Gantioqui",0,2020-10-15T11:01:56+00:00
+352976,PH-0477,heliport,Philippine Merchant Marine Academy Heliport,15.00074,120.06641,43,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,San Narciso,0,,,,,,,0,2022-02-24T00:44:43+00:00
+337761,PH-0224,heliport,SM City San Pablo Heliport,14.07168,121.30267,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,San Pablo,0,,,,,,,0,2020-12-15T16:06:28+00:00
+348659,PH-0425,closed,Inandeng Airport,10.52637,119.2811,20,AS,Philippines,PH,Palawan Province,PH-PLW,PLW,San Vicente,0,,,,,,,0,2021-10-12T11:54:55+00:00
+337352,PH-0195,closed,Santa Josefa (Aurora) Airstrip,8.02226,126.01582,115,AS,Philippines,PH,Agusan del Sur Province,PH-AGS,AGS,Santa Josefa,0,,,,,,,0,2021-10-05T23:26:33+00:00
+337803,PH-0228,heliport,Santa Rosa Helipad,14.23919,121.05557,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Santa Rosa,0,,,,,,,0,2020-12-16T09:52:35+00:00
+337820,PH-0245,heliport,Monde Nissin Helipad,14.290169,121.101404,115,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Santa Rosa,0,,,,,,,0,2020-12-16T12:28:18+00:00
+339304,PH-0297,heliport,SM City Santa Rosa Heliport,14.31313,121.09803,,AS,Philippines,PH,Laguna Province,PH-LAG,LAG,Santa Rosa,0,,,,,,,0,2021-01-12T12:15:56+00:00
+533505,PH-0592,heliport,Camella Santo Tomas North Trails Helipad,14.10112,121.16911,581,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Santo Tomas,0,,,,,,,0,2024-06-15T23:22:41+00:00
+351525,PH-0466,heliport,Maguindanao del Sur Provincial Capitol Heliport,6.87051,124.43664,119,AS,Philippines,PH,Maguindanao del Sur Province,PH-MDS,MDS,Shariff Aguak,0,,,,,,,0,2022-10-01T19:24:25+00:00
+314924,SSV,closed,Siasi Airport,5.566779,120.841627,170,AS,Philippines,PH,Sulu Province,PH-SLU,SLU,Siasi,0,,,,,,"SSV, SSV",0,2020-09-24T12:01:06+00:00
+551556,PH-0609,heliport,Sugkong Heliport,16.150903,120.545099,623,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Sison,0,,,,,,Sugcong,0,2024-10-09T12:19:44+00:00
+551560,PH-0610,heliport,Northern Cement Corporation (NCC) Heliport,16.1696,120.56259,650,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Sison,0,,,,,,,0,2024-10-09T12:47:42+00:00
+325770,PH-0028,heliport,Baquioen Heliport,16.084522,120.110154,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Sual,0,,,,,,"Baquioen, Sual",0,2020-10-15T11:10:57+00:00
+325785,PH-0029,heliport,Sual Power Plant Heliport,16.126615,120.097104,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Sual,0,,,,,https://en.wikipedia.org/wiki/Sual_Power_Station,"Sual Power Plant, Pangasinan",0,2020-10-15T11:10:04+00:00
+508760,PH-0577,heliport,Adventure Beach Heliport,14.76451,120.25655,13,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Subic,0,,,,,,,0,2023-05-18T12:06:33+00:00
+508761,PH-0578,heliport,George Dewey Medical Center Heliport,14.77411,120.3067,594,AS,Philippines,PH,Zambales Province,PH-ZMB,ZMB,Subic,0,,,,,,,0,2023-05-18T12:10:01+00:00
+337946,PH-0259,heliport,Royale Tagaytay Helipad,14.07723,120.86375,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Tagaytay,0,,,,,,,0,2020-12-18T12:18:39+00:00
+341187,PH-0322,heliport,Naval Station Jose Francisco Heliport,14.529907,121.028253,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-02-17T18:37:21+00:00
+341398,PH-0325,heliport,Fairways Tower Helipad,14.54604,121.04527,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-02-26T12:07:06+00:00
+343728,PH-0363,heliport,Camp Bagong Diwa Heliport,14.48844,121.05724,100,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:00:23+00:00
+343729,PH-0364,heliport,Fort Victoria Tower A Helipad,14.54727,121.04572,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:01:43+00:00
+343730,PH-0365,heliport,Fort Victoria Tower B Helipad,14.54695,121.04552,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:02:32+00:00
+343731,PH-0366,heliport,Fort Victoria Tower C Helipad,14.54686,121.04591,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:03:05+00:00
+343732,PH-0367,heliport,Pacific Plaza Towers South Helipad,14.54746,121.04501,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:04:35+00:00
+343733,PH-0368,heliport,Pacific Plaza Towers North Helipad,14.54807,121.04514,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:05:04+00:00
+343734,PH-0369,heliport,One McKinley Place Helipad,14.54936,121.04526,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:05:56+00:00
+343735,PH-0370,heliport,Net One Center Helipad,14.5497,121.04549,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:06:34+00:00
+343736,PH-0371,heliport,Picadilly Star Building Helipad,14.54994,121.04601,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:07:08+00:00
+343737,PH-0372,heliport,Eight Forbestown Road Helipad,14.55059,121.04393,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:08:09+00:00
+343738,PH-0373,heliport,Fort Legend Tower Helipad,14.5541,121.04693,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:09:23+00:00
+343739,PH-0374,heliport,Globe Tower Helipad,14.55344,121.05003,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:11:29+00:00
+343740,PH-0375,heliport,Saint Luke's Medical Center Bonifacio Global City Heliport,14.55507,121.04797,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:12:33+00:00
+343741,PH-0376,heliport,SM Aura Office Tower Helipad,14.54533,121.05322,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:13:11+00:00
+343742,PH-0377,heliport,Regent Parkway Condominium Helipad,14.54426,121.04628,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:13:57+00:00
+343743,PH-0378,heliport,Essensa 1 Helipad,14.54381,121.04649,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,Comeron Tower,0,2021-04-29T17:16:23+00:00
+343744,PH-0379,heliport,Del Rosario Law Building Helipad,14.54355,121.04729,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:15:39+00:00
+343745,PH-0380,heliport,Essensa 2 Helipad,14.54294,121.04682,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Taguig,0,,,,,,,0,2021-04-29T17:16:55+00:00
+337945,PH-0258,heliport,Taal Lake Yacht Club Heliport,14.088359,121.00624,,AS,Philippines,PH,Batangas Province,PH-BTG,BTG,Talisay,0,,,,,,,0,2020-12-18T12:16:08+00:00
+538643,PH-0602,closed,Tanauan Airfield,11.10651,125.02015,30,AS,Philippines,PH,Leyte Province,PH-LEY,LEY,Tanauan,0,,,,,,,0,2024-07-23T04:43:16+00:00
+336819,PH-0185,heliport,PhilComSat Heliport,14.58549,121.29397,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Tanay,0,,,,,,,0,2020-10-15T11:24:40+00:00
+341534,PH-0326,heliport,James Steelworks Heliport,14.53525,121.36838,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Tanay,0,,,,,,,0,2021-03-02T21:32:09+00:00
+325908,PH-0063,heliport,Capipisa (Tanza) Heliport,14.348114,120.781138,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Tanza,0,,,,,,"Capipisa, Tanza",0,2020-06-17T19:00:41+00:00
+504826,PH-0527,heliport,Camp Riego de Dios Heliport,14.326586,120.852265,167,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Tanza,0,,,,,,,0,2022-11-14T13:03:09+00:00
+504854,PH-0540,heliport,Camilla & Lumina Heliport,14.33772,120.84754,141,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Tanza,0,,,,,,,0,2022-11-15T10:01:56+00:00
+337812,PH-0237,heliport,SM CIty Tarlac Heliport,15.47707,120.59405,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Tarlac,0,,,,,,,0,2020-12-16T11:41:04+00:00
+337813,PH-0238,heliport,Camp Aquino Heliport,15.441902,120.592082,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Tarlac,0,,,,,,,0,2023-11-12T19:05:25+00:00
+337814,PH-0239,closed,San Manuel Airstrip,15.49289,120.64399,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Tarlac,0,,,,,,,0,2020-12-16T11:43:38+00:00
+325987,PH-0086,heliport,Alto Airfield Helipad,15.423048,120.6344,,AS,Philippines,PH,Tarlac Province,PH-TAR,TAR,Tarlac City,0,,,,,,"Alto, Tarlac",0,2018-01-01T02:17:03+00:00
+337809,PH-0234,heliport,SM City Taytay Heliport,14.5658,121.14108,,AS,Philippines,PH,Rizal Province,PH-RIZ,RIZ,Taytay,0,,,,,,,0,2020-12-16T11:29:30+00:00
+336820,PH-0186,closed,Ernajos Strip,15.99894,120.79146,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Tayug,0,,,,,,,0,2020-10-15T11:26:44+00:00
+337815,PH-0240,closed,Lichuaco Airfield,16.00975,120.78816,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Tayug,0,,,,,,,0,2020-12-16T11:50:05+00:00
+325912,PH-0064,heliport,General Gregorio Lim Marine Base Heliport,14.267422,120.626543,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Ternate,0,,,,,,"General Gregorio Lim Marine Base, Bucana",0,2023-05-18T12:14:54+00:00
+504855,PH-0541,heliport,Caylabne Bay Resort Heliport,14.27201,120.6482,30,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Ternate,0,,,,,,,0,2022-11-15T10:04:14+00:00
+504856,PH-0542,heliport,Paniman Beach Resort Heliport,14.27847,120.66765,33,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Ternate,0,,,,,,,0,2022-11-15T10:06:47+00:00
+351886,PH-0473,closed,Tinambac Airport,13.81198,123.32337,7,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Tinambac,0,,,,,,,0,2022-01-24T15:33:05+00:00
+348661,PH-0427,closed,Lutopan Airstrip,10.32139,123.70607,932,AS,Philippines,PH,Cebu Province,PH-CEB,CEB,Toledo,0,,,,,,,0,2021-10-12T11:58:38+00:00
+325853,PH-0033,heliport,Manila International Container Terminal (MICT) Heliport,14.597028,120.954743,14,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Tondo,0,,,,,,"MICT, Manila International Container Terminal, ICTSI",0,2021-06-10T17:47:05+00:00
+339279,PH-0274,heliport,SM City Trece Martires Heliport,14.28166,120.86522,,AS,Philippines,PH,Cavite Province,PH-CAV,CAV,Trece Martires,0,,,,,,,0,2021-01-12T11:28:34+00:00
+325627,PH-0018,heliport,Tugawe Cover Resort Helipad,13.718036,123.9731336,,AS,Philippines,PH,Camarines Sur Province,PH-CAS,CAS,Tugawe Cove Resort,0,,,,,,Tugawe Cove,0,2017-11-28T00:19:11+00:00
+339306,PH-0298,heliport,SM Center Tuguegarao Downtown Heliport,17.61256,121.72316,,AS,Philippines,PH,Cagayan Province,PH-CAG,CAG,Tuguegarao,0,,,,,,,0,2021-01-12T12:24:02+00:00
+504819,PH-0520,heliport,Camp Sang-an Heliport,7.90848,123.49824,348,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Tukuran,0,,,,,,,0,2022-11-14T12:02:45+00:00
+337811,PH-0236,heliport,SM City Urdaneta Heliport,15.97104,120.57302,,AS,Philippines,PH,Pangasinan Province,PH-PAN,PAN,Urdaneta,0,,,,,,,0,2020-12-16T11:32:46+00:00
+339310,PH-0302,heliport,SM Center Valenzuela Heliport,14.68599,120.97702,,AS,Philippines,PH,National Capital Region (Metropolitan Manila),PH-00,0,Valenzuela,0,,,,,,,0,2021-01-12T12:30:35+00:00
+326192,PH-0160,heliport,BDO ATM – Steag Coal Power Plant Villanueva Heliport,8.565884,124.762319,,AS,Philippines,PH,Misamis Oriental Province,PH-MSR,MSR,Villanueva,0,,,,,,"Villaneuva, BDO ATM – Steag",0,2024-06-26T16:37:09+00:00
+326200,PH-0161,heliport,Naval Station Romulo Espaldon Heliport,6.916144,122.03874,,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Zamboanga,0,,,,,,"Headquarters Naval Forces Western Mindanao, Calarian, Zamboanga",0,2022-11-14T11:54:15+00:00
+326201,PH-0162,heliport,Edwin Andrews Air Force Base Heliport,6.924595,122.065895,,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Zamboanga,0,,,,,http://wikimapia.org/2159949/Edwin-Andrews-Air-Base-Heliport,"Edwin Andrews Air Force Base, Zamboanga",0,2018-01-23T04:31:53+00:00
+504818,PH-0519,heliport,Western Mindanao Community Hospital Heliport,6.918178,122.038702,50,AS,Philippines,PH,Zamboanga del Sur Province,PH-ZAS,ZAS,Zamboanga,0,,,,,,,0,2022-11-14T11:56:47+00:00
